@@ -1,0 +1,4990 @@
+[
+    {
+        "id": "29598",
+        "name": "5.5\" Samsung Note 64GB",
+        "price": 494175,
+        "bonus": 4941,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "2092 мА * ч"
+        }
+    },
+    {
+        "id": "82961",
+        "name": "5.2\" Qualcomm 192GB",
+        "price": 335768,
+        "bonus": 3357,
+        "characteristics": {
+            "processor": "8x4.6 ГГц",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "46516",
+        "name": "6.0\" Samsung 128GB",
+        "price": 146660,
+        "bonus": 1466,
+        "characteristics": {
+            "ram": "9 GB",
+            "resolution": "1920x1440",
+            "sim": "2 SIM",
+            "camera": "21 MP",
+            "acc": "4578 мА * ч"
+        }
+    },
+    {
+        "id": "69018",
+        "name": "7.1\" NVIDIA 240GB",
+        "price": 244835,
+        "bonus": 2448,
+        "characteristics": {
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "camera": "69 MP"
+        }
+    },
+    {
+        "id": "18793",
+        "name": "7.3\" Marvell 96GB",
+        "price": 499312,
+        "bonus": 4993,
+        "characteristics": {
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "acc": "6352 мА * ч"
+        }
+    },
+    {
+        "id": "13533",
+        "name": "6.3\" Silicon Power 48GB",
+        "price": 37364,
+        "bonus": 373,
+        "characteristics": {
+            "processor": "4x4.3 ГГц",
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "128 MP",
+            "acc": "6391 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "61987",
+        "name": "6.8\" ASUS 48GB",
+        "price": 21736,
+        "bonus": 217,
+        "characteristics": {
+            "processor": "2x1.4 ГГц",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "114 MP"
+        }
+    },
+    {
+        "id": "28182",
+        "name": "5.9\" Apple 16GB",
+        "price": 405142,
+        "bonus": 4051,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "97 MP",
+            "acc": "5462 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "41538",
+        "name": "5.3\" ADATA 96GB",
+        "price": 382869,
+        "bonus": 3828,
+        "characteristics": {
+            "processor": "6x4.2 ГГц",
+            "sim": "2 SIM",
+            "camera": "72 MP",
+            "acc": "5496 мА * ч"
+        }
+    },
+    {
+        "id": "83790",
+        "name": "5.0\" ARM 112GB",
+        "price": 442341,
+        "bonus": 4423,
+        "characteristics": {
+            "processor": "6x4.5 ГГц",
+            "ram": "11 GB",
+            "resolution": "1280x1200",
+            "sim": "2 SIM",
+            "camera": "96 MP",
+            "acc": "6932 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "77605",
+        "name": "7.1\" PNY 240GB",
+        "price": 71533,
+        "bonus": 715,
+        "characteristics": {
+            "processor": "6x4.1 ГГц",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "acc": "5639 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "88491",
+        "name": "5.5\" Dell 208GB",
+        "price": 320527,
+        "bonus": 3205,
+        "characteristics": {
+            "processor": "8x3.3 ГГц",
+            "ram": "16 GB",
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "acc": "7493 мА * ч"
+        }
+    },
+    {
+        "id": "43514",
+        "name": "5.5\" Corsair 64GB",
+        "price": 74285,
+        "bonus": 742,
+        "characteristics": {
+            "processor": "2x1.8 ГГц",
+            "ram": "15 GB",
+            "resolution": "1920x768",
+            "sim": "2 SIM",
+            "camera": "84 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "65193",
+        "name": "6.0\" Toshiba 32GB",
+        "price": 288965,
+        "bonus": 2889,
+        "characteristics": {
+            "processor": "4x5.0 ГГц",
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "camera": "97 MP",
+            "acc": "3191 мА * ч"
+        }
+    },
+    {
+        "id": "32501",
+        "name": "7.5\" Corsair 128GB",
+        "price": 304478,
+        "bonus": 3044,
+        "characteristics": {
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "21 MP",
+            "acc": "2268 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "10384",
+        "name": "7.5\" Acer 64GB",
+        "price": 301254,
+        "bonus": 3012,
+        "characteristics": {
+            "processor": "6x1.6 ГГц",
+            "ram": "16 GB",
+            "resolution": "1920x1440",
+            "sim": "2 SIM",
+            "camera": "123 MP",
+            "acc": "3364 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "76534",
+        "name": "6.9\" Lenovo 256GB",
+        "price": 333888,
+        "bonus": 3338,
+        "characteristics": {
+            "processor": "2x4.1 ГГц",
+            "resolution": "1366x1200",
+            "sim": "2 SIM",
+            "acc": "5531 мА * ч"
+        }
+    },
+    {
+        "id": "83154",
+        "name": "5.9\" OCZ 80GB",
+        "price": 146501,
+        "bonus": 1465,
+        "characteristics": {
+            "processor": "2x2.9 ГГц",
+            "ram": "8 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "16680",
+        "name": "7.4\" Corsair 128GB",
+        "price": 259370,
+        "bonus": 2593,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "120 MP",
+            "acc": "7365 мА * ч"
+        }
+    },
+    {
+        "id": "45871",
+        "name": "5.3\" VIVO 16GB",
+        "price": 199616,
+        "bonus": 1996,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1366x1200",
+            "sim": "2 SIM",
+            "camera": "65 MP",
+            "acc": "5379 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "70932",
+        "name": "6.9\" Lenovo 208GB",
+        "price": 300103,
+        "bonus": 3001,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "5418 мА * ч"
+        }
+    },
+    {
+        "id": "59635",
+        "name": "5.1\" Seagate 224GB",
+        "price": 127684,
+        "bonus": 1276,
+        "characteristics": {
+            "processor": "8x1.2 ГГц",
+            "sim": "2 SIM",
+            "camera": "58 MP",
+            "acc": "4603 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "48786",
+        "name": "5.4\" Seagate 128GB",
+        "price": 439293,
+        "bonus": 4392,
+        "characteristics": {
+            "ram": "3 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "62 MP",
+            "acc": "2343 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "52404",
+        "name": "5.5\" iPhone X 176GB",
+        "price": 19346,
+        "bonus": 193,
+        "characteristics": {
+            "processor": "2x1.4 ГГц",
+            "sim": "2 SIM",
+            "camera": "21 MP"
+        }
+    },
+    {
+        "id": "31881",
+        "name": "5.5\" Xiaomi Mi 256GB",
+        "price": 483888,
+        "bonus": 4838,
+        "characteristics": {
+            "ram": "11 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "camera": "55 MP",
+            "acc": "4450 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "64286",
+        "name": "5.9\" HGST 112GB",
+        "price": 89328,
+        "bonus": 893,
+        "characteristics": {
+            "processor": "8x4.5 ГГц",
+            "resolution": "1366x1080",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "77515",
+        "name": "6.9\" Xiaomi Mi 128GB",
+        "price": 413780,
+        "bonus": 4137,
+        "characteristics": {
+            "processor": "4x4.1 ГГц",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "acc": "6661 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "57925",
+        "name": "7.4\" Sony 176GB",
+        "price": 174318,
+        "bonus": 1743,
+        "characteristics": {
+            "processor": "4x1.7 ГГц",
+            "ram": "6 GB",
+            "sim": "2 SIM",
+            "camera": "27 MP",
+            "acc": "6170 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "17432",
+        "name": "5.3\" Samsung 192GB",
+        "price": 160763,
+        "bonus": 1607,
+        "characteristics": {
+            "processor": "2x4.5 ГГц",
+            "sim": "2 SIM",
+            "camera": "79 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "96994",
+        "name": "5.1\" NVIDIA 160GB",
+        "price": 309862,
+        "bonus": 3098,
+        "characteristics": {
+            "processor": "6x3.6 ГГц",
+            "ram": "11 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "44 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "58252",
+        "name": "5.7\" Toshiba 80GB",
+        "price": 395309,
+        "bonus": 3953,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "acc": "5589 мА * ч"
+        }
+    },
+    {
+        "id": "93859",
+        "name": "7.4\" Nokia 192GB",
+        "price": 329150,
+        "bonus": 3291,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1024x1080",
+            "sim": "2 SIM",
+            "camera": "113 MP",
+            "acc": "6031 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "67449",
+        "name": "5.1\" Silicon Power 16GB",
+        "price": 225364,
+        "bonus": 2253,
+        "characteristics": {
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "camera": "32 MP",
+            "acc": "6017 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "41666",
+        "name": "5.5\" Sony 80GB",
+        "price": 209774,
+        "bonus": 2097,
+        "characteristics": {
+            "processor": "6x2.4 ГГц",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "acc": "7420 мА * ч"
+        }
+    },
+    {
+        "id": "49944",
+        "name": "6.3\" PNY 64GB",
+        "price": 396200,
+        "bonus": 3962,
+        "characteristics": {
+            "ram": "2 GB",
+            "resolution": "1920x1440",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "43395",
+        "name": "5.9\" Transcend 160GB",
+        "price": 71636,
+        "bonus": 716,
+        "characteristics": {
+            "processor": "2x2.4 ГГц",
+            "sim": "2 SIM",
+            "camera": "107 MP",
+            "acc": "5685 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "22048",
+        "name": "6.9\" Western Digital 128GB",
+        "price": 243138,
+        "bonus": 2431,
+        "characteristics": {
+            "ram": "10 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "46196",
+        "name": "6.1\" iPhone X 224GB",
+        "price": 57253,
+        "bonus": 572,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1280x1200",
+            "sim": "2 SIM",
+            "camera": "123 MP",
+            "acc": "7080 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "59754",
+        "name": "6.4\" Lenovo 16GB",
+        "price": 155827,
+        "bonus": 1558,
+        "characteristics": {
+            "processor": "6x3.5 ГГц",
+            "sim": "2 SIM",
+            "camera": "18 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "98310",
+        "name": "6.3\" Silicon Power 176GB",
+        "price": 126340,
+        "bonus": 1263,
+        "characteristics": {
+            "processor": "2x4.0 ГГц",
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "camera": "61 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "33219",
+        "name": "6.1\" iPhone 13 224GB",
+        "price": 114409,
+        "bonus": 1144,
+        "characteristics": {
+            "processor": "6x3.7 ГГц",
+            "ram": "16 GB",
+            "sim": "2 SIM",
+            "camera": "100 MP",
+            "acc": "2663 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "64683",
+        "name": "5.3\" Lenovo 112GB",
+        "price": 472878,
+        "bonus": 4728,
+        "characteristics": {
+            "processor": "6x1.7 ГГц",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "acc": "4509 мА * ч"
+        }
+    },
+    {
+        "id": "11822",
+        "name": "6.5\" Asus 32GB",
+        "price": 389235,
+        "bonus": 3892,
+        "characteristics": {
+            "processor": "6x1.6 ГГц",
+            "resolution": "2560x2160",
+            "sim": "2 SIM",
+            "acc": "6411 мА * ч"
+        }
+    },
+    {
+        "id": "23744",
+        "name": "6.8\" Kingston 16GB",
+        "price": 408994,
+        "bonus": 4089,
+        "characteristics": {
+            "processor": "4x2.4 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "67 MP",
+            "acc": "6391 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "84010",
+        "name": "6.1\" iPhone 13 16GB",
+        "price": 440207,
+        "bonus": 4402,
+        "characteristics": {
+            "resolution": "1920x768",
+            "sim": "2 SIM",
+            "camera": "31 MP",
+            "acc": "2316 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "70037",
+        "name": "6.7\" VIVO 112GB",
+        "price": 438018,
+        "bonus": 4380,
+        "characteristics": {
+            "ram": "2 GB",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "21792",
+        "name": "6.0\" Blackberry 32GB",
+        "price": 58234,
+        "bonus": 582,
+        "characteristics": {
+            "ram": "11 GB",
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "camera": "101 MP",
+            "acc": "7318 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "80612",
+        "name": "6.9\" Dell 176GB",
+        "price": 403435,
+        "bonus": 4034,
+        "characteristics": {
+            "processor": "2x2.1 ГГц",
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "23 MP",
+            "acc": "7414 мА * ч"
+        }
+    },
+    {
+        "id": "65798",
+        "name": "5.2\" Gigabyte 240GB",
+        "price": 220147,
+        "bonus": 2201,
+        "characteristics": {
+            "processor": "4x2.8 ГГц",
+            "sim": "2 SIM",
+            "camera": "114 MP",
+            "acc": "3909 мА * ч"
+        }
+    },
+    {
+        "id": "35555",
+        "name": "7.3\" ASUS 160GB",
+        "price": 477056,
+        "bonus": 4770,
+        "characteristics": {
+            "resolution": "1024x1366",
+            "sim": "2 SIM",
+            "camera": "24 MP",
+            "acc": "5584 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "97084",
+        "name": "6.1\" Alcatel 16GB",
+        "price": 139929,
+        "bonus": 1399,
+        "characteristics": {
+            "processor": "4x1.3 ГГц",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "camera": "97 MP",
+            "acc": "7781 мА * ч"
+        }
+    },
+    {
+        "id": "16476",
+        "name": "6.5\" Qualcomm 224GB",
+        "price": 442026,
+        "bonus": 4420,
+        "characteristics": {
+            "processor": "2x1.8 ГГц",
+            "ram": "4 GB",
+            "sim": "2 SIM",
+            "camera": "84 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "41584",
+        "name": "6.7\" ASUS 144GB",
+        "price": 358418,
+        "bonus": 3584,
+        "characteristics": {
+            "processor": "4x1.2 ГГц",
+            "ram": "2 GB",
+            "sim": "2 SIM",
+            "camera": "18 MP",
+            "acc": "4857 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "70405",
+        "name": "6.6\" LaCie 144GB",
+        "price": 300279,
+        "bonus": 3002,
+        "characteristics": {
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "camera": "100 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "64467",
+        "name": "7.4\" Toshiba 192GB",
+        "price": 234718,
+        "bonus": 2347,
+        "characteristics": {
+            "processor": "2x4.7 ГГц",
+            "ram": "5 GB",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "76 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "20736",
+        "name": "6.5\" HGST 160GB",
+        "price": 35589,
+        "bonus": 355,
+        "characteristics": {
+            "processor": "2x2.6 ГГц",
+            "ram": "5 GB",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "23 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "91453",
+        "name": "7.3\" Micron 112GB",
+        "price": 256528,
+        "bonus": 2565,
+        "characteristics": {
+            "processor": "2x5.0 ГГц",
+            "ram": "2 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "28886",
+        "name": "6.1\" Fujitsu 224GB",
+        "price": 348600,
+        "bonus": 3486,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1600x768",
+            "sim": "2 SIM",
+            "camera": "31 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "25921",
+        "name": "5.6\" Samsung S21 208GB",
+        "price": 297517,
+        "bonus": 2975,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "69 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "71467",
+        "name": "5.9\" Samsung S21 96GB",
+        "price": 434154,
+        "bonus": 4341,
+        "characteristics": {
+            "processor": "6x4.3 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "43680",
+        "name": "5.4\" HTC 208GB",
+        "price": 349657,
+        "bonus": 3496,
+        "characteristics": {
+            "ram": "16 GB",
+            "resolution": "1280x1200",
+            "sim": "2 SIM",
+            "camera": "27 MP",
+            "acc": "2569 мА * ч"
+        }
+    },
+    {
+        "id": "67325",
+        "name": "5.2\" MSI 64GB",
+        "price": 442769,
+        "bonus": 4427,
+        "characteristics": {
+            "ram": "9 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "acc": "5041 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "18955",
+        "name": "6.8\" Samsung S21 32GB",
+        "price": 423466,
+        "bonus": 4234,
+        "characteristics": {
+            "processor": "2x1.7 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "48 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "91320",
+        "name": "6.5\" Dell 128GB",
+        "price": 489089,
+        "bonus": 4890,
+        "characteristics": {
+            "processor": "4x3.0 ГГц",
+            "ram": "11 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "camera": "122 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "33964",
+        "name": "6.4\" Dell 256GB",
+        "price": 316667,
+        "bonus": 3166,
+        "characteristics": {
+            "processor": "6x2.0 ГГц",
+            "ram": "14 GB",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "84 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "40625",
+        "name": "5.0\" Motorola 240GB",
+        "price": 289413,
+        "bonus": 2894,
+        "characteristics": {
+            "ram": "8 GB",
+            "resolution": "1920x1366",
+            "sim": "2 SIM",
+            "camera": "51 MP",
+            "acc": "6494 мА * ч"
+        }
+    },
+    {
+        "id": "65393",
+        "name": "5.6\" Broadcom 128GB",
+        "price": 195443,
+        "bonus": 1954,
+        "characteristics": {
+            "processor": "8x2.9 ГГц",
+            "sim": "2 SIM",
+            "camera": "16 MP",
+            "acc": "4538 мА * ч"
+        }
+    },
+    {
+        "id": "37695",
+        "name": "5.6\" Transcend 144GB",
+        "price": 114936,
+        "bonus": 1149,
+        "characteristics": {
+            "processor": "4x4.4 ГГц",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "camera": "22 MP",
+            "acc": "7032 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "98848",
+        "name": "5.8\" LaCie 96GB",
+        "price": 204722,
+        "bonus": 2047,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "camera": "81 MP",
+            "acc": "3577 мА * ч"
+        }
+    },
+    {
+        "id": "27657",
+        "name": "6.9\" Texas Instruments 224GB",
+        "price": 33567,
+        "bonus": 335,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "5439 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "75554",
+        "name": "7.5\" Acer 176GB",
+        "price": 208649,
+        "bonus": 2086,
+        "characteristics": {
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "acc": "5251 мА * ч"
+        }
+    },
+    {
+        "id": "38009",
+        "name": "6.4\" Texas Instruments 112GB",
+        "price": 434983,
+        "bonus": 4349,
+        "characteristics": {
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "111 MP",
+            "acc": "6453 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "46751",
+        "name": "7.5\" Motorola 128GB",
+        "price": 26343,
+        "bonus": 263,
+        "characteristics": {
+            "ram": "13 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "85876",
+        "name": "6.9\" Acer 240GB",
+        "price": 164975,
+        "bonus": 1649,
+        "characteristics": {
+            "processor": "2x1.4 ГГц",
+            "resolution": "1366x1200",
+            "sim": "2 SIM",
+            "camera": "115 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "94469",
+        "name": "7.5\" Micron 32GB",
+        "price": 109923,
+        "bonus": 1099,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "60 MP",
+            "acc": "4252 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "95791",
+        "name": "5.8\" OCZ 16GB",
+        "price": 307865,
+        "bonus": 3078,
+        "characteristics": {
+            "resolution": "2560x1080",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "48831",
+        "name": "6.5\" LaCie 176GB",
+        "price": 147577,
+        "bonus": 1475,
+        "characteristics": {
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "91610",
+        "name": "6.8\" VIVO 208GB",
+        "price": 370841,
+        "bonus": 3708,
+        "characteristics": {
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "acc": "5377 мА * ч"
+        }
+    },
+    {
+        "id": "23567",
+        "name": "6.9\" HGST 48GB",
+        "price": 312553,
+        "bonus": 3125,
+        "characteristics": {
+            "processor": "6x3.5 ГГц",
+            "resolution": "1024x1366",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "72300",
+        "name": "6.1\" OCZ 160GB",
+        "price": 137558,
+        "bonus": 1375,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "7654 мА * ч"
+        }
+    },
+    {
+        "id": "56733",
+        "name": "5.3\" Kingston 112GB",
+        "price": 250852,
+        "bonus": 2508,
+        "characteristics": {
+            "processor": "4x3.5 ГГц",
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "camera": "74 MP",
+            "acc": "6060 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "75898",
+        "name": "6.5\" Huawei P 256GB",
+        "price": 220062,
+        "bonus": 2200,
+        "characteristics": {
+            "processor": "6x3.5 ГГц",
+            "resolution": "1920x1200",
+            "sim": "2 SIM",
+            "camera": "118 MP",
+            "acc": "7837 мА * ч"
+        }
+    },
+    {
+        "id": "36595",
+        "name": "6.3\" ARM 64GB",
+        "price": 455306,
+        "bonus": 4553,
+        "characteristics": {
+            "processor": "8x2.9 ГГц",
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "85127",
+        "name": "6.3\" Corsair 112GB",
+        "price": 308715,
+        "bonus": 3087,
+        "characteristics": {
+            "ram": "14 GB",
+            "sim": "2 SIM",
+            "camera": "108 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "89647",
+        "name": "5.2\" Marvell 176GB",
+        "price": 381019,
+        "bonus": 3810,
+        "characteristics": {
+            "ram": "6 GB",
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "camera": "58 MP"
+        }
+    },
+    {
+        "id": "91516",
+        "name": "6.5\" NVIDIA 112GB",
+        "price": 130306,
+        "bonus": 1303,
+        "characteristics": {
+            "resolution": "1920x1366",
+            "sim": "2 SIM",
+            "acc": "2454 мА * ч"
+        }
+    },
+    {
+        "id": "43914",
+        "name": "6.0\" Silicon Power 128GB",
+        "price": 234898,
+        "bonus": 2348,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "107 MP"
+        }
+    },
+    {
+        "id": "97469",
+        "name": "5.3\" Marvell 80GB",
+        "price": 316997,
+        "bonus": 3169,
+        "characteristics": {
+            "processor": "4x3.0 ГГц",
+            "ram": "3 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "111 MP",
+            "acc": "6319 мА * ч"
+        }
+    },
+    {
+        "id": "50104",
+        "name": "6.7\" iPhone 13 64GB",
+        "price": 406632,
+        "bonus": 4066,
+        "characteristics": {
+            "resolution": "1280x1200",
+            "sim": "2 SIM",
+            "acc": "6270 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "96434",
+        "name": "7.2\" ADATA 64GB",
+        "price": 479252,
+        "bonus": 4792,
+        "characteristics": {
+            "processor": "8x3.4 ГГц",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "camera": "39 MP",
+            "acc": "5377 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "10272",
+        "name": "5.4\" Dell 192GB",
+        "price": 268346,
+        "bonus": 2683,
+        "characteristics": {
+            "processor": "4x1.9 ГГц",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "56670",
+        "name": "5.2\" Transcend 96GB",
+        "price": 212426,
+        "bonus": 2124,
+        "characteristics": {
+            "processor": "4x3.5 ГГц",
+            "sim": "2 SIM",
+            "camera": "126 MP",
+            "acc": "4441 мА * ч"
+        }
+    },
+    {
+        "id": "89742",
+        "name": "7.2\" PNY 160GB",
+        "price": 306608,
+        "bonus": 3066,
+        "characteristics": {
+            "processor": "4x3.7 ГГц",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "acc": "3418 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "61166",
+        "name": "6.2\" Fujitsu 80GB",
+        "price": 59369,
+        "bonus": 593,
+        "characteristics": {
+            "processor": "8x4.1 ГГц",
+            "ram": "9 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "camera": "46 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "42975",
+        "name": "6.4\" Sony 80GB",
+        "price": 130974,
+        "bonus": 1309,
+        "characteristics": {
+            "processor": "2x2.0 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "99 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "39083",
+        "name": "5.8\" Dell 144GB",
+        "price": 76388,
+        "bonus": 763,
+        "characteristics": {
+            "ram": "2 GB",
+            "sim": "2 SIM",
+            "camera": "128 MP",
+            "acc": "4764 мА * ч"
+        }
+    },
+    {
+        "id": "17894",
+        "name": "5.7\" Samsung 64GB",
+        "price": 322793,
+        "bonus": 3227,
+        "characteristics": {
+            "ram": "2 GB",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "acc": "2060 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "94210",
+        "name": "7.1\" Qualcomm 32GB",
+        "price": 223436,
+        "bonus": 2234,
+        "characteristics": {
+            "processor": "8x2.5 ГГц",
+            "ram": "9 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "32 MP",
+            "acc": "2628 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "60580",
+        "name": "5.1\" Apple 144GB",
+        "price": 374174,
+        "bonus": 3741,
+        "characteristics": {
+            "ram": "14 GB",
+            "resolution": "1280x2160",
+            "sim": "2 SIM",
+            "camera": "47 MP",
+            "acc": "4672 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "48608",
+        "name": "5.0\" Toshiba 240GB",
+        "price": 181584,
+        "bonus": 1815,
+        "characteristics": {
+            "processor": "8x1.0 ГГц",
+            "ram": "16 GB",
+            "sim": "2 SIM",
+            "camera": "86 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "64357",
+        "name": "6.9\" Gigabyte 160GB",
+        "price": 121354,
+        "bonus": 1213,
+        "characteristics": {
+            "processor": "8x2.0 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "49 MP",
+            "acc": "5026 мА * ч"
+        }
+    },
+    {
+        "id": "75470",
+        "name": "5.2\" Google Pixel 160GB",
+        "price": 161406,
+        "bonus": 1614,
+        "characteristics": {
+            "processor": "4x4.1 ГГц",
+            "ram": "5 GB",
+            "sim": "2 SIM",
+            "camera": "50 MP"
+        }
+    },
+    {
+        "id": "56159",
+        "name": "5.8\" Nokia 224GB",
+        "price": 27667,
+        "bonus": 276,
+        "characteristics": {
+            "ram": "6 GB",
+            "resolution": "1024x1440",
+            "sim": "2 SIM",
+            "camera": "22 MP",
+            "acc": "6635 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "28173",
+        "name": "5.5\" Samsung S21 80GB",
+        "price": 346161,
+        "bonus": 3461,
+        "characteristics": {
+            "processor": "8x1.7 ГГц",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "96 MP",
+            "acc": "4102 мА * ч"
+        }
+    },
+    {
+        "id": "79921",
+        "name": "6.0\" IBM 48GB",
+        "price": 330204,
+        "bonus": 3302,
+        "characteristics": {
+            "processor": "2x4.2 ГГц",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "camera": "44 MP"
+        }
+    },
+    {
+        "id": "31213",
+        "name": "5.3\" IBM 240GB",
+        "price": 393533,
+        "bonus": 3935,
+        "characteristics": {
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "camera": "114 MP"
+        }
+    },
+    {
+        "id": "95455",
+        "name": "6.2\" ADATA 208GB",
+        "price": 366179,
+        "bonus": 3661,
+        "characteristics": {
+            "processor": "8x2.7 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "89 MP",
+            "acc": "6386 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "39169",
+        "name": "5.8\" Dell 32GB",
+        "price": 400618,
+        "bonus": 4006,
+        "characteristics": {
+            "processor": "8x4.0 ГГц",
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "acc": "3950 мА * ч"
+        }
+    },
+    {
+        "id": "21348",
+        "name": "5.1\" Toshiba 208GB",
+        "price": 149643,
+        "bonus": 1496,
+        "characteristics": {
+            "processor": "4x1.7 ГГц",
+            "ram": "5 GB",
+            "sim": "2 SIM",
+            "camera": "57 MP",
+            "acc": "2426 мА * ч"
+        }
+    },
+    {
+        "id": "60507",
+        "name": "6.5\" Blackberry 96GB",
+        "price": 329227,
+        "bonus": 3292,
+        "characteristics": {
+            "processor": "8x1.4 ГГц",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "camera": "21 MP",
+            "acc": "3414 мА * ч"
+        }
+    },
+    {
+        "id": "20475",
+        "name": "6.5\" NVIDIA 256GB",
+        "price": 111879,
+        "bonus": 1118,
+        "characteristics": {
+            "processor": "2x3.7 ГГц",
+            "resolution": "1600x768",
+            "sim": "2 SIM",
+            "camera": "111 MP"
+        }
+    },
+    {
+        "id": "43631",
+        "name": "6.7\" ASUS 240GB",
+        "price": 418261,
+        "bonus": 4182,
+        "characteristics": {
+            "processor": "4x1.8 ГГц",
+            "ram": "13 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "acc": "5595 мА * ч"
+        }
+    },
+    {
+        "id": "17650",
+        "name": "7.3\" Intel 128GB",
+        "price": 147512,
+        "bonus": 1475,
+        "characteristics": {
+            "processor": "4x1.5 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "67959",
+        "name": "6.8\" Alcatel 128GB",
+        "price": 347806,
+        "bonus": 3478,
+        "characteristics": {
+            "processor": "2x3.3 ГГц",
+            "sim": "2 SIM",
+            "camera": "78 MP",
+            "acc": "2333 мА * ч"
+        }
+    },
+    {
+        "id": "79227",
+        "name": "7.1\" iPhone 13 160GB",
+        "price": 14857,
+        "bonus": 148,
+        "characteristics": {
+            "processor": "2x3.9 ГГц",
+            "ram": "3 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "acc": "3481 мА * ч"
+        }
+    },
+    {
+        "id": "54842",
+        "name": "7.1\" Blackberry 32GB",
+        "price": 474876,
+        "bonus": 4748,
+        "characteristics": {
+            "processor": "6x3.3 ГГц",
+            "ram": "16 GB",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "camera": "47 MP",
+            "acc": "2272 мА * ч"
+        }
+    },
+    {
+        "id": "83621",
+        "name": "6.4\" Lenovo 256GB",
+        "price": 264523,
+        "bonus": 2645,
+        "characteristics": {
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "acc": "3863 мА * ч"
+        }
+    },
+    {
+        "id": "57729",
+        "name": "7.4\" Samsung S21 128GB",
+        "price": 32720,
+        "bonus": 327,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "camera": "92 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "63832",
+        "name": "7.2\" NVIDIA 112GB",
+        "price": 114489,
+        "bonus": 1144,
+        "characteristics": {
+            "processor": "6x2.4 ГГц",
+            "ram": "13 GB",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "92 MP",
+            "acc": "3259 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "23107",
+        "name": "5.8\" SanDisk 80GB",
+        "price": 409410,
+        "bonus": 4094,
+        "characteristics": {
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "camera": "19 MP",
+            "acc": "4417 мА * ч"
+        }
+    },
+    {
+        "id": "72313",
+        "name": "6.3\" Lenovo 224GB",
+        "price": 81807,
+        "bonus": 818,
+        "characteristics": {
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "92 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "99154",
+        "name": "6.9\" Silicon Power 80GB",
+        "price": 344159,
+        "bonus": 3441,
+        "characteristics": {
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "acc": "5116 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "91737",
+        "name": "5.7\" Seagate 112GB",
+        "price": 326174,
+        "bonus": 3261,
+        "characteristics": {
+            "ram": "4 GB",
+            "sim": "2 SIM",
+            "camera": "97 MP",
+            "acc": "2398 мА * ч"
+        }
+    },
+    {
+        "id": "72879",
+        "name": "7.3\" SanDisk 48GB",
+        "price": 41323,
+        "bonus": 413,
+        "characteristics": {
+            "ram": "8 GB",
+            "resolution": "1920x1440",
+            "sim": "2 SIM",
+            "camera": "107 MP",
+            "acc": "4488 мА * ч"
+        }
+    },
+    {
+        "id": "32084",
+        "name": "6.8\" Micron 192GB",
+        "price": 85011,
+        "bonus": 850,
+        "characteristics": {
+            "processor": "6x1.9 ГГц",
+            "ram": "15 GB",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "camera": "31 MP",
+            "acc": "4477 мА * ч"
+        }
+    },
+    {
+        "id": "48990",
+        "name": "7.1\" Samsung S21 32GB",
+        "price": 222703,
+        "bonus": 2227,
+        "characteristics": {
+            "processor": "8x3.9 ГГц",
+            "ram": "7 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "acc": "3143 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "59051",
+        "name": "6.9\" Western Digital 144GB",
+        "price": 238911,
+        "bonus": 2389,
+        "characteristics": {
+            "ram": "16 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "82302",
+        "name": "5.4\" Seagate 208GB",
+        "price": 214857,
+        "bonus": 2148,
+        "characteristics": {
+            "processor": "4x4.0 ГГц",
+            "ram": "13 GB",
+            "resolution": "1920x768",
+            "sim": "2 SIM",
+            "camera": "51 MP",
+            "acc": "4506 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "34621",
+        "name": "6.1\" Sony 64GB",
+        "price": 129285,
+        "bonus": 1292,
+        "characteristics": {
+            "processor": "4x4.6 ГГц",
+            "ram": "8 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "88053",
+        "name": "6.9\" Texas Instruments 208GB",
+        "price": 401604,
+        "bonus": 4016,
+        "characteristics": {
+            "processor": "6x2.8 ГГц",
+            "sim": "2 SIM",
+            "acc": "5182 мА * ч"
+        }
+    },
+    {
+        "id": "34867",
+        "name": "6.5\" LaCie 48GB",
+        "price": 204082,
+        "bonus": 2040,
+        "characteristics": {
+            "processor": "4x3.4 ГГц",
+            "sim": "2 SIM",
+            "camera": "74 MP",
+            "acc": "3882 мА * ч"
+        }
+    },
+    {
+        "id": "18830",
+        "name": "7.4\" Gigabyte 32GB",
+        "price": 348526,
+        "bonus": 3485,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "camera": "95 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "73117",
+        "name": "6.9\" Microsoft 256GB",
+        "price": 290583,
+        "bonus": 2905,
+        "characteristics": {
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "acc": "2565 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "30117",
+        "name": "6.2\" PNY 208GB",
+        "price": 352971,
+        "bonus": 3529,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "24 MP"
+        }
+    },
+    {
+        "id": "35027",
+        "name": "5.9\" Xilinx 96GB",
+        "price": 249492,
+        "bonus": 2494,
+        "characteristics": {
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "camera": "59 MP",
+            "acc": "3089 мА * ч"
+        }
+    },
+    {
+        "id": "60486",
+        "name": "6.9\" Acer 160GB",
+        "price": 237200,
+        "bonus": 2372,
+        "characteristics": {
+            "processor": "6x1.3 ГГц",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "121 MP",
+            "acc": "6572 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "62020",
+        "name": "6.7\" Alcatel 144GB",
+        "price": 82480,
+        "bonus": 824,
+        "characteristics": {
+            "ram": "9 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "19473",
+        "name": "5.9\" Dell 64GB",
+        "price": 272565,
+        "bonus": 2725,
+        "characteristics": {
+            "processor": "8x1.7 ГГц",
+            "ram": "12 GB",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "camera": "61 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "20242",
+        "name": "5.8\" LG 192GB",
+        "price": 58127,
+        "bonus": 581,
+        "characteristics": {
+            "processor": "2x2.8 ГГц",
+            "resolution": "1920x1440",
+            "sim": "2 SIM",
+            "camera": "38 MP",
+            "acc": "6842 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "57817",
+        "name": "5.7\" Microsoft 160GB",
+        "price": 482254,
+        "bonus": 4822,
+        "characteristics": {
+            "processor": "4x3.9 ГГц",
+            "ram": "11 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "122 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "28773",
+        "name": "6.8\" Toshiba 112GB",
+        "price": 255499,
+        "bonus": 2554,
+        "characteristics": {
+            "processor": "2x3.6 ГГц",
+            "ram": "10 GB",
+            "resolution": "1280x1200",
+            "sim": "2 SIM",
+            "acc": "5503 мА * ч"
+        }
+    },
+    {
+        "id": "80851",
+        "name": "6.3\" Fujitsu 128GB",
+        "price": 27123,
+        "bonus": 271,
+        "characteristics": {
+            "ram": "5 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "acc": "7554 мА * ч"
+        }
+    },
+    {
+        "id": "55602",
+        "name": "7.5\" IBM 208GB",
+        "price": 35275,
+        "bonus": 352,
+        "characteristics": {
+            "processor": "6x2.3 ГГц",
+            "ram": "13 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "camera": "121 MP",
+            "acc": "4437 мА * ч"
+        }
+    },
+    {
+        "id": "76139",
+        "name": "7.2\" Samsung S21 176GB",
+        "price": 177195,
+        "bonus": 1771,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "2560x2160",
+            "sim": "2 SIM",
+            "camera": "94 MP",
+            "acc": "6487 мА * ч"
+        }
+    },
+    {
+        "id": "64967",
+        "name": "6.1\" ASUS 32GB",
+        "price": 302693,
+        "bonus": 3026,
+        "characteristics": {
+            "processor": "2x1.7 ГГц",
+            "ram": "11 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "camera": "80 MP",
+            "acc": "2768 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "72644",
+        "name": "5.1\" Lenovo 64GB",
+        "price": 140569,
+        "bonus": 1405,
+        "characteristics": {
+            "processor": "4x2.7 ГГц",
+            "ram": "2 GB",
+            "resolution": "1024x1440",
+            "sim": "2 SIM",
+            "camera": "48 MP",
+            "acc": "5557 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "78778",
+        "name": "7.2\" Samsung S21 64GB",
+        "price": 416994,
+        "bonus": 4169,
+        "characteristics": {
+            "processor": "6x1.2 ГГц",
+            "ram": "14 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "camera": "23 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "64829",
+        "name": "5.7\" Alcatel 240GB",
+        "price": 354504,
+        "bonus": 3545,
+        "characteristics": {
+            "processor": "8x1.8 ГГц",
+            "sim": "2 SIM",
+            "acc": "5465 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "29743",
+        "name": "7.0\" Kingston 80GB",
+        "price": 470896,
+        "bonus": 4708,
+        "characteristics": {
+            "processor": "6x3.4 ГГц",
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "acc": "2243 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "31976",
+        "name": "6.5\" Broadcom 96GB",
+        "price": 79331,
+        "bonus": 793,
+        "characteristics": {
+            "ram": "2 GB",
+            "resolution": "1024x768",
+            "sim": "2 SIM",
+            "camera": "55 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "44952",
+        "name": "7.5\" Qualcomm 96GB",
+        "price": 299215,
+        "bonus": 2992,
+        "characteristics": {
+            "processor": "2x4.9 ГГц",
+            "ram": "10 GB",
+            "resolution": "2560x2160",
+            "sim": "2 SIM",
+            "acc": "5517 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "51560",
+        "name": "6.1\" Microsoft 192GB",
+        "price": 257859,
+        "bonus": 2578,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1366x1440",
+            "sim": "2 SIM",
+            "camera": "39 MP",
+            "acc": "5424 мА * ч"
+        }
+    },
+    {
+        "id": "50152",
+        "name": "6.4\" Huawei P 176GB",
+        "price": 92719,
+        "bonus": 927,
+        "characteristics": {
+            "processor": "6x4.9 ГГц",
+            "ram": "5 GB",
+            "sim": "2 SIM",
+            "camera": "16 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "79522",
+        "name": "6.1\" Lenovo 176GB",
+        "price": 477282,
+        "bonus": 4772,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "acc": "3274 мА * ч"
+        }
+    },
+    {
+        "id": "15248",
+        "name": "6.3\" Huawei P 80GB",
+        "price": 419372,
+        "bonus": 4193,
+        "characteristics": {
+            "ram": "6 GB",
+            "sim": "2 SIM",
+            "camera": "123 MP",
+            "acc": "5605 мА * ч"
+        }
+    },
+    {
+        "id": "70168",
+        "name": "5.6\" HTC 32GB",
+        "price": 137778,
+        "bonus": 1377,
+        "characteristics": {
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "camera": "49 MP",
+            "acc": "4305 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "60240",
+        "name": "5.0\" Samsung 16GB",
+        "price": 283403,
+        "bonus": 2834,
+        "characteristics": {
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "camera": "28 MP",
+            "acc": "3554 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "12439",
+        "name": "6.8\" Nokia 160GB",
+        "price": 172544,
+        "bonus": 1725,
+        "characteristics": {
+            "processor": "4x4.1 ГГц",
+            "ram": "6 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "85075",
+        "name": "5.1\" Nokia 112GB",
+        "price": 95721,
+        "bonus": 957,
+        "characteristics": {
+            "processor": "8x4.9 ГГц",
+            "ram": "14 GB",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "19916",
+        "name": "7.2\" MSI 224GB",
+        "price": 417998,
+        "bonus": 4179,
+        "characteristics": {
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "camera": "122 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "58103",
+        "name": "6.6\" Huawei P 176GB",
+        "price": 201304,
+        "bonus": 2013,
+        "characteristics": {
+            "ram": "5 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "84755",
+        "name": "7.5\" Dell 240GB",
+        "price": 384522,
+        "bonus": 3845,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "108 MP",
+            "acc": "2773 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "97807",
+        "name": "7.2\" Asus 192GB",
+        "price": 440306,
+        "bonus": 4403,
+        "characteristics": {
+            "processor": "6x2.0 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "58 MP",
+            "acc": "3701 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "95331",
+        "name": "6.2\" Xiaomi Mi 192GB",
+        "price": 289295,
+        "bonus": 2892,
+        "characteristics": {
+            "processor": "4x1.2 ГГц",
+            "ram": "6 GB",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "camera": "60 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "86611",
+        "name": "5.6\" iPhone X 192GB",
+        "price": 359364,
+        "bonus": 3593,
+        "characteristics": {
+            "processor": "4x3.3 ГГц",
+            "ram": "14 GB",
+            "sim": "2 SIM",
+            "camera": "100 MP",
+            "acc": "3085 мА * ч"
+        }
+    },
+    {
+        "id": "69535",
+        "name": "5.2\" iPhone 12 112GB",
+        "price": 299840,
+        "bonus": 2998,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "2798 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "16496",
+        "name": "5.6\" NVIDIA 160GB",
+        "price": 278568,
+        "bonus": 2785,
+        "characteristics": {
+            "processor": "6x5.0 ГГц",
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "acc": "6967 мА * ч"
+        }
+    },
+    {
+        "id": "49630",
+        "name": "6.1\" VIVO 80GB",
+        "price": 305296,
+        "bonus": 3052,
+        "characteristics": {
+            "processor": "6x4.7 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "28757",
+        "name": "5.0\" Hewlett-Packard 208GB",
+        "price": 44986,
+        "bonus": 449,
+        "characteristics": {
+            "processor": "8x3.0 ГГц",
+            "resolution": "1600x1366",
+            "sim": "2 SIM",
+            "camera": "49 MP",
+            "acc": "7411 мА * ч"
+        }
+    },
+    {
+        "id": "18547",
+        "name": "6.3\" iPhone X 256GB",
+        "price": 336738,
+        "bonus": 3367,
+        "characteristics": {
+            "ram": "5 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "82 MP",
+            "acc": "3118 мА * ч"
+        }
+    },
+    {
+        "id": "99196",
+        "name": "6.7\" PNY 256GB",
+        "price": 252139,
+        "bonus": 2521,
+        "characteristics": {
+            "resolution": "2560x2160",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "41737",
+        "name": "6.2\" Qualcomm 128GB",
+        "price": 384183,
+        "bonus": 3841,
+        "characteristics": {
+            "processor": "8x3.2 ГГц",
+            "sim": "2 SIM",
+            "camera": "113 MP",
+            "acc": "4405 мА * ч"
+        }
+    },
+    {
+        "id": "38346",
+        "name": "6.6\" Google Pixel 48GB",
+        "price": 186628,
+        "bonus": 1866,
+        "characteristics": {
+            "processor": "2x1.2 ГГц",
+            "ram": "14 GB",
+            "resolution": "1600x768",
+            "sim": "2 SIM",
+            "camera": "91 MP",
+            "acc": "3542 мА * ч"
+        }
+    },
+    {
+        "id": "32311",
+        "name": "6.8\" Dell 48GB",
+        "price": 75411,
+        "bonus": 754,
+        "characteristics": {
+            "processor": "4x4.8 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "60 MP",
+            "acc": "6572 мА * ч"
+        }
+    },
+    {
+        "id": "89745",
+        "name": "7.4\" Micron 160GB",
+        "price": 190697,
+        "bonus": 1906,
+        "characteristics": {
+            "processor": "6x2.2 ГГц",
+            "ram": "2 GB",
+            "sim": "2 SIM",
+            "camera": "18 MP",
+            "acc": "7050 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "81302",
+        "name": "5.5\" Toshiba 96GB",
+        "price": 310643,
+        "bonus": 3106,
+        "characteristics": {
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "acc": "5257 мА * ч"
+        }
+    },
+    {
+        "id": "44539",
+        "name": "6.3\" OPPO 48GB",
+        "price": 148148,
+        "bonus": 1481,
+        "characteristics": {
+            "processor": "6x3.9 ГГц",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "11533",
+        "name": "7.2\" Transcend 240GB",
+        "price": 167026,
+        "bonus": 1670,
+        "characteristics": {
+            "processor": "8x1.8 ГГц",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "74323",
+        "name": "7.5\" NVIDIA 112GB",
+        "price": 315564,
+        "bonus": 3155,
+        "characteristics": {
+            "processor": "2x2.3 ГГц",
+            "sim": "2 SIM",
+            "camera": "48 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "77899",
+        "name": "7.4\" LaCie 80GB",
+        "price": 165728,
+        "bonus": 1657,
+        "characteristics": {
+            "processor": "2x1.7 ГГц",
+            "ram": "12 GB",
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "acc": "5960 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "62300",
+        "name": "6.2\" Toshiba 80GB",
+        "price": 247802,
+        "bonus": 2478,
+        "characteristics": {
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "camera": "17 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "81634",
+        "name": "6.9\" MSI 112GB",
+        "price": 465813,
+        "bonus": 4658,
+        "characteristics": {
+            "processor": "2x2.0 ГГц",
+            "sim": "2 SIM",
+            "camera": "34 MP",
+            "acc": "4975 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "72791",
+        "name": "5.1\" Fujitsu 128GB",
+        "price": 344546,
+        "bonus": 3445,
+        "characteristics": {
+            "ram": "9 GB",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "66 MP",
+            "acc": "2021 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "76604",
+        "name": "6.2\" Western Digital 112GB",
+        "price": 49705,
+        "bonus": 497,
+        "characteristics": {
+            "processor": "4x4.4 ГГц",
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "acc": "3012 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "46857",
+        "name": "7.4\" Toshiba 256GB",
+        "price": 202008,
+        "bonus": 2020,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "7227 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "92791",
+        "name": "7.0\" Huawei P 176GB",
+        "price": 311501,
+        "bonus": 3115,
+        "characteristics": {
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "acc": "3536 мА * ч"
+        }
+    },
+    {
+        "id": "20400",
+        "name": "5.0\" ASUS 16GB",
+        "price": 198739,
+        "bonus": 1987,
+        "characteristics": {
+            "ram": "2 GB",
+            "resolution": "1024x1440",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "68656",
+        "name": "7.4\" OPPO 32GB",
+        "price": 291716,
+        "bonus": 2917,
+        "characteristics": {
+            "processor": "8x3.3 ГГц",
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "acc": "5044 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "88794",
+        "name": "5.2\" HTC 240GB",
+        "price": 374175,
+        "bonus": 3741,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "87 MP",
+            "acc": "5714 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "80010",
+        "name": "5.7\" AMD 224GB",
+        "price": 245362,
+        "bonus": 2453,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "38261",
+        "name": "6.8\" Microsoft 224GB",
+        "price": 412732,
+        "bonus": 4127,
+        "characteristics": {
+            "processor": "4x4.7 ГГц",
+            "sim": "2 SIM",
+            "acc": "5965 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "56437",
+        "name": "6.9\" MSI 48GB",
+        "price": 168482,
+        "bonus": 1684,
+        "characteristics": {
+            "processor": "2x3.2 ГГц",
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "acc": "3775 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "14159",
+        "name": "6.8\" MSI 128GB",
+        "price": 356491,
+        "bonus": 3564,
+        "characteristics": {
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "24 MP",
+            "acc": "3331 мА * ч"
+        }
+    },
+    {
+        "id": "49755",
+        "name": "7.2\" Asus 48GB",
+        "price": 59583,
+        "bonus": 595,
+        "characteristics": {
+            "processor": "2x4.5 ГГц",
+            "ram": "12 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "42 MP",
+            "acc": "5658 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "84266",
+        "name": "5.0\" Apple 240GB",
+        "price": 461655,
+        "bonus": 4616,
+        "characteristics": {
+            "processor": "4x1.5 ГГц",
+            "ram": "7 GB",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "camera": "69 MP",
+            "acc": "5142 мА * ч"
+        }
+    },
+    {
+        "id": "84223",
+        "name": "7.4\" NVIDIA 256GB",
+        "price": 443800,
+        "bonus": 4438,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "108 MP",
+            "acc": "6268 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "42855",
+        "name": "6.9\" iPhone 12 48GB",
+        "price": 418422,
+        "bonus": 4184,
+        "characteristics": {
+            "processor": "8x2.4 ГГц",
+            "ram": "16 GB",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "51 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "72317",
+        "name": "7.0\" Nokia 208GB",
+        "price": 122037,
+        "bonus": 1220,
+        "characteristics": {
+            "resolution": "1600x1080",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "13271",
+        "name": "5.6\" OPPO 192GB",
+        "price": 272917,
+        "bonus": 2729,
+        "characteristics": {
+            "processor": "4x4.6 ГГц",
+            "sim": "2 SIM",
+            "camera": "69 MP",
+            "acc": "3710 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "82719",
+        "name": "5.3\" Sony 80GB",
+        "price": 253406,
+        "bonus": 2534,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "acc": "7109 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "31308",
+        "name": "6.9\" Asus 128GB",
+        "price": 16857,
+        "bonus": 168,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "66 MP",
+            "acc": "7581 мА * ч"
+        }
+    },
+    {
+        "id": "51578",
+        "name": "5.2\" NVIDIA 176GB",
+        "price": 429850,
+        "bonus": 4298,
+        "characteristics": {
+            "processor": "6x1.0 ГГц",
+            "ram": "6 GB",
+            "resolution": "1366x1440",
+            "sim": "2 SIM",
+            "camera": "38 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "59067",
+        "name": "6.6\" Gigabyte 112GB",
+        "price": 246148,
+        "bonus": 2461,
+        "characteristics": {
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "14296",
+        "name": "5.8\" OPPO 128GB",
+        "price": 499668,
+        "bonus": 4996,
+        "characteristics": {
+            "processor": "6x1.2 ГГц",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "acc": "7486 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "95524",
+        "name": "5.1\" ZTE 16GB",
+        "price": 142347,
+        "bonus": 1423,
+        "characteristics": {
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "camera": "67 MP",
+            "acc": "6136 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "89407",
+        "name": "6.6\" Microsoft 128GB",
+        "price": 377685,
+        "bonus": 3776,
+        "characteristics": {
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "49 MP",
+            "acc": "2762 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "11008",
+        "name": "7.3\" OPPO 32GB",
+        "price": 398492,
+        "bonus": 3984,
+        "characteristics": {
+            "processor": "8x2.4 ГГц",
+            "ram": "8 GB",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "camera": "39 MP",
+            "acc": "7572 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "85745",
+        "name": "5.9\" ZTE 96GB",
+        "price": 459124,
+        "bonus": 4591,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "2158 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "89908",
+        "name": "5.2\" Seagate 176GB",
+        "price": 366023,
+        "bonus": 3660,
+        "characteristics": {
+            "processor": "2x3.7 ГГц",
+            "ram": "13 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "106 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "19986",
+        "name": "5.1\" Gigabyte 160GB",
+        "price": 220951,
+        "bonus": 2209,
+        "characteristics": {
+            "processor": "2x1.6 ГГц",
+            "resolution": "1024x768",
+            "sim": "2 SIM",
+            "acc": "2631 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "98633",
+        "name": "7.5\" MSI 240GB",
+        "price": 415496,
+        "bonus": 4154,
+        "characteristics": {
+            "ram": "3 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "camera": "67 MP"
+        }
+    },
+    {
+        "id": "48524",
+        "name": "7.2\" Xilinx 160GB",
+        "price": 274075,
+        "bonus": 2740,
+        "characteristics": {
+            "processor": "8x2.2 ГГц",
+            "resolution": "1024x1366",
+            "sim": "2 SIM",
+            "camera": "96 MP",
+            "acc": "2214 мА * ч"
+        }
+    },
+    {
+        "id": "39468",
+        "name": "5.3\" Toshiba 16GB",
+        "price": 29113,
+        "bonus": 291,
+        "characteristics": {
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "22777",
+        "name": "5.9\" Acer 112GB",
+        "price": 423524,
+        "bonus": 4235,
+        "characteristics": {
+            "processor": "2x1.1 ГГц",
+            "ram": "2 GB",
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "camera": "58 MP",
+            "acc": "5879 мА * ч"
+        }
+    },
+    {
+        "id": "79065",
+        "name": "6.5\" Xiaomi Mi 224GB",
+        "price": 214938,
+        "bonus": 2149,
+        "characteristics": {
+            "processor": "6x1.4 ГГц",
+            "ram": "12 GB",
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "acc": "6294 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "79178",
+        "name": "6.4\" VIVO 256GB",
+        "price": 24766,
+        "bonus": 247,
+        "characteristics": {
+            "processor": "8x1.0 ГГц",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "71 MP",
+            "acc": "2256 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "41587",
+        "name": "7.1\" OCZ 192GB",
+        "price": 429465,
+        "bonus": 4294,
+        "characteristics": {
+            "ram": "3 GB",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "acc": "6314 мА * ч"
+        }
+    },
+    {
+        "id": "35746",
+        "name": "6.2\" LaCie 128GB",
+        "price": 337278,
+        "bonus": 3372,
+        "characteristics": {
+            "processor": "6x3.8 ГГц",
+            "sim": "2 SIM",
+            "camera": "82 MP",
+            "acc": "3761 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "39432",
+        "name": "5.0\" Xilinx 80GB",
+        "price": 95299,
+        "bonus": 952,
+        "characteristics": {
+            "processor": "8x1.6 ГГц",
+            "ram": "3 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "camera": "123 MP",
+            "acc": "3150 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "71201",
+        "name": "5.4\" Xilinx 112GB",
+        "price": 188732,
+        "bonus": 1887,
+        "characteristics": {
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "camera": "48 MP"
+        }
+    },
+    {
+        "id": "97160",
+        "name": "6.9\" LaCie 128GB",
+        "price": 205441,
+        "bonus": 2054,
+        "characteristics": {
+            "processor": "6x1.4 ГГц",
+            "ram": "16 GB",
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "camera": "107 MP",
+            "acc": "6208 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "99121",
+        "name": "6.7\" Huawei P 64GB",
+        "price": 101886,
+        "bonus": 1018,
+        "characteristics": {
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "41 MP",
+            "acc": "6034 мА * ч"
+        }
+    },
+    {
+        "id": "50675",
+        "name": "5.0\" Nokia 224GB",
+        "price": 414020,
+        "bonus": 4140,
+        "characteristics": {
+            "processor": "8x4.3 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "28 MP",
+            "acc": "6987 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "78683",
+        "name": "6.2\" Toshiba 80GB",
+        "price": 124671,
+        "bonus": 1246,
+        "characteristics": {
+            "processor": "4x1.2 ГГц",
+            "ram": "12 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "115 MP"
+        }
+    },
+    {
+        "id": "79456",
+        "name": "5.1\" SanDisk 64GB",
+        "price": 21430,
+        "bonus": 214,
+        "characteristics": {
+            "processor": "4x1.5 ГГц",
+            "ram": "4 GB",
+            "sim": "2 SIM",
+            "camera": "40 MP"
+        }
+    },
+    {
+        "id": "86254",
+        "name": "5.1\" Western Digital 48GB",
+        "price": 173663,
+        "bonus": 1736,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "camera": "122 MP",
+            "acc": "7242 мА * ч"
+        }
+    },
+    {
+        "id": "69296",
+        "name": "6.6\" iPhone 12 64GB",
+        "price": 217546,
+        "bonus": 2175,
+        "characteristics": {
+            "processor": "4x4.2 ГГц",
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "camera": "88 MP"
+        }
+    },
+    {
+        "id": "63991",
+        "name": "7.1\" ADATA 128GB",
+        "price": 97586,
+        "bonus": 975,
+        "characteristics": {
+            "processor": "6x4.5 ГГц",
+            "ram": "11 GB",
+            "resolution": "1280x2160",
+            "sim": "2 SIM",
+            "acc": "3455 мА * ч"
+        }
+    },
+    {
+        "id": "50855",
+        "name": "7.4\" Plextor 144GB",
+        "price": 420889,
+        "bonus": 4208,
+        "characteristics": {
+            "ram": "6 GB",
+            "sim": "2 SIM",
+            "camera": "87 MP",
+            "acc": "7281 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "94033",
+        "name": "6.3\" Intel 80GB",
+        "price": 209296,
+        "bonus": 2092,
+        "characteristics": {
+            "processor": "6x1.2 ГГц",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "91240",
+        "name": "5.0\" Gigabyte 48GB",
+        "price": 387503,
+        "bonus": 3875,
+        "characteristics": {
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "acc": "6895 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "67595",
+        "name": "7.5\" Hewlett-Packard 32GB",
+        "price": 362794,
+        "bonus": 3627,
+        "characteristics": {
+            "processor": "4x1.5 ГГц",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "acc": "5846 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "76075",
+        "name": "6.8\" iPhone X 160GB",
+        "price": 167931,
+        "bonus": 1679,
+        "characteristics": {
+            "processor": "4x3.4 ГГц",
+            "ram": "5 GB",
+            "resolution": "2560x1366",
+            "sim": "2 SIM",
+            "camera": "121 MP",
+            "acc": "3597 мА * ч"
+        }
+    },
+    {
+        "id": "85941",
+        "name": "7.4\" Xilinx 240GB",
+        "price": 217158,
+        "bonus": 2171,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM",
+            "acc": "7155 мА * ч"
+        }
+    },
+    {
+        "id": "74570",
+        "name": "5.4\" iPhone 12 256GB",
+        "price": 168819,
+        "bonus": 1688,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1024x1366",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "73179",
+        "name": "6.3\" OCZ 208GB",
+        "price": 98368,
+        "bonus": 983,
+        "characteristics": {
+            "processor": "6x4.8 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "26489",
+        "name": "7.2\" Toshiba 240GB",
+        "price": 218787,
+        "bonus": 2187,
+        "characteristics": {
+            "processor": "2x3.4 ГГц",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "76263",
+        "name": "6.2\" Corsair 256GB",
+        "price": 469989,
+        "bonus": 4699,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "58 MP",
+            "acc": "4040 мА * ч"
+        }
+    },
+    {
+        "id": "62866",
+        "name": "6.6\" AMD 48GB",
+        "price": 172591,
+        "bonus": 1725,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "90 MP",
+            "acc": "7564 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "40754",
+        "name": "6.4\" Motorola 224GB",
+        "price": 126651,
+        "bonus": 1266,
+        "characteristics": {
+            "processor": "6x5.0 ГГц",
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "camera": "46 MP",
+            "acc": "6568 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "83128",
+        "name": "5.4\" Acer 176GB",
+        "price": 326630,
+        "bonus": 3266,
+        "characteristics": {
+            "processor": "4x1.6 ГГц",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "42 MP",
+            "acc": "3957 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "65679",
+        "name": "7.5\" ARM 240GB",
+        "price": 421754,
+        "bonus": 4217,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "46 MP",
+            "acc": "3716 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "36514",
+        "name": "7.5\" Toshiba 192GB",
+        "price": 475407,
+        "bonus": 4754,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "61 MP",
+            "acc": "7409 мА * ч"
+        }
+    },
+    {
+        "id": "81758",
+        "name": "7.3\" AMD 128GB",
+        "price": 54059,
+        "bonus": 540,
+        "characteristics": {
+            "processor": "4x2.6 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "18 MP",
+            "acc": "4683 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "40816",
+        "name": "7.5\" Apple 128GB",
+        "price": 181681,
+        "bonus": 1816,
+        "characteristics": {
+            "processor": "6x1.4 ГГц",
+            "resolution": "2560x1200",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "36947",
+        "name": "6.7\" Qualcomm 112GB",
+        "price": 434733,
+        "bonus": 4347,
+        "characteristics": {
+            "ram": "16 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "72 MP",
+            "acc": "4665 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "96723",
+        "name": "6.0\" Asus 96GB",
+        "price": 76892,
+        "bonus": 768,
+        "characteristics": {
+            "ram": "13 GB",
+            "resolution": "1024x1080",
+            "sim": "2 SIM",
+            "acc": "7222 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "22303",
+        "name": "7.3\" OCZ 16GB",
+        "price": 251115,
+        "bonus": 2511,
+        "characteristics": {
+            "processor": "6x4.0 ГГц",
+            "ram": "8 GB",
+            "resolution": "1600x1366",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "47447",
+        "name": "6.5\" Motorola 240GB",
+        "price": 396073,
+        "bonus": 3960,
+        "characteristics": {
+            "processor": "8x2.1 ГГц",
+            "ram": "12 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "acc": "3807 мА * ч"
+        }
+    },
+    {
+        "id": "32520",
+        "name": "7.2\" Micron 144GB",
+        "price": 153088,
+        "bonus": 1530,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "25035",
+        "name": "5.3\" ADATA 16GB",
+        "price": 378141,
+        "bonus": 3781,
+        "characteristics": {
+            "processor": "6x2.4 ГГц",
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "acc": "6968 мА * ч"
+        }
+    },
+    {
+        "id": "24180",
+        "name": "6.6\" Xilinx 16GB",
+        "price": 469332,
+        "bonus": 4693,
+        "characteristics": {
+            "processor": "2x5.0 ГГц",
+            "sim": "2 SIM",
+            "camera": "105 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "71784",
+        "name": "6.3\" Toshiba 208GB",
+        "price": 56891,
+        "bonus": 568,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "112 MP",
+            "acc": "5172 мА * ч"
+        }
+    },
+    {
+        "id": "71859",
+        "name": "5.5\" Microsoft 80GB",
+        "price": 193386,
+        "bonus": 1933,
+        "characteristics": {
+            "processor": "6x4.2 ГГц",
+            "sim": "2 SIM",
+            "acc": "6813 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "45589",
+        "name": "6.6\" Western Digital 192GB",
+        "price": 125118,
+        "bonus": 1251,
+        "characteristics": {
+            "ram": "8 GB",
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "camera": "37 MP"
+        }
+    },
+    {
+        "id": "82762",
+        "name": "7.2\" OPPO 240GB",
+        "price": 192995,
+        "bonus": 1929,
+        "characteristics": {
+            "ram": "3 GB",
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "98220",
+        "name": "6.7\" HGST 224GB",
+        "price": 260194,
+        "bonus": 2601,
+        "characteristics": {
+            "processor": "2x3.9 ГГц",
+            "resolution": "1366x1440",
+            "sim": "2 SIM",
+            "camera": "57 MP",
+            "acc": "2359 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "73412",
+        "name": "6.7\" ASUS 32GB",
+        "price": 274771,
+        "bonus": 2747,
+        "characteristics": {
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "camera": "54 MP",
+            "acc": "3118 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "89134",
+        "name": "5.7\" Acer 208GB",
+        "price": 222709,
+        "bonus": 2227,
+        "characteristics": {
+            "resolution": "1024x1440",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "76761",
+        "name": "5.5\" Huawei P 64GB",
+        "price": 320090,
+        "bonus": 3200,
+        "characteristics": {
+            "processor": "8x4.6 ГГц",
+            "resolution": "2560x1366",
+            "sim": "2 SIM",
+            "acc": "4145 мА * ч"
+        }
+    },
+    {
+        "id": "59390",
+        "name": "7.5\" Seagate 208GB",
+        "price": 92049,
+        "bonus": 920,
+        "characteristics": {
+            "processor": "4x1.8 ГГц",
+            "ram": "7 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM",
+            "camera": "105 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "88682",
+        "name": "5.6\" SanDisk 32GB",
+        "price": 481204,
+        "bonus": 4812,
+        "characteristics": {
+            "processor": "6x2.2 ГГц",
+            "ram": "15 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM",
+            "camera": "44 MP",
+            "acc": "6345 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "51775",
+        "name": "6.0\" Xilinx 128GB",
+        "price": 89013,
+        "bonus": 890,
+        "characteristics": {
+            "processor": "2x3.6 ГГц",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "89703",
+        "name": "7.0\" Xiaomi Mi 80GB",
+        "price": 483029,
+        "bonus": 4830,
+        "characteristics": {
+            "processor": "4x3.7 ГГц",
+            "ram": "7 GB",
+            "sim": "2 SIM",
+            "camera": "95 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "53095",
+        "name": "5.7\" PNY 32GB",
+        "price": 339818,
+        "bonus": 3398,
+        "characteristics": {
+            "processor": "6x3.7 ГГц",
+            "sim": "2 SIM",
+            "camera": "22 MP",
+            "acc": "2700 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "25436",
+        "name": "7.1\" Broadcom 16GB",
+        "price": 434466,
+        "bonus": 4344,
+        "characteristics": {
+            "processor": "6x4.6 ГГц",
+            "resolution": "1600x1366",
+            "sim": "2 SIM",
+            "camera": "20 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "80853",
+        "name": "6.3\" Sony 208GB",
+        "price": 136566,
+        "bonus": 1365,
+        "characteristics": {
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "42595",
+        "name": "5.8\" iPhone 13 144GB",
+        "price": 41135,
+        "bonus": 411,
+        "characteristics": {
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "camera": "64 MP",
+            "acc": "6382 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "59339",
+        "name": "6.9\" Western Digital 16GB",
+        "price": 398918,
+        "bonus": 3989,
+        "characteristics": {
+            "processor": "8x4.0 ГГц",
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "camera": "93 MP",
+            "acc": "7746 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "49441",
+        "name": "5.9\" Google Pixel 208GB",
+        "price": 448834,
+        "bonus": 4488,
+        "characteristics": {
+            "processor": "4x4.2 ГГц",
+            "sim": "2 SIM",
+            "camera": "85 MP"
+        }
+    },
+    {
+        "id": "88971",
+        "name": "6.6\" ZTE 32GB",
+        "price": 68421,
+        "bonus": 684,
+        "characteristics": {
+            "resolution": "2560x1200",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "79986",
+        "name": "5.1\" Fujitsu 48GB",
+        "price": 384863,
+        "bonus": 3848,
+        "characteristics": {
+            "processor": "2x4.3 ГГц",
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "camera": "113 MP",
+            "acc": "7649 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "19296",
+        "name": "5.7\" Xilinx 224GB",
+        "price": 80909,
+        "bonus": 809,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "acc": "4982 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "91949",
+        "name": "5.5\" Qualcomm 48GB",
+        "price": 442989,
+        "bonus": 4429,
+        "characteristics": {
+            "processor": "8x4.2 ГГц",
+            "ram": "10 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "camera": "50 MP"
+        }
+    },
+    {
+        "id": "74185",
+        "name": "5.6\" Western Digital 80GB",
+        "price": 171551,
+        "bonus": 1715,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1600x1366",
+            "sim": "2 SIM",
+            "camera": "126 MP"
+        }
+    },
+    {
+        "id": "37736",
+        "name": "6.5\" HGST 80GB",
+        "price": 297039,
+        "bonus": 2970,
+        "characteristics": {
+            "ram": "6 GB",
+            "sim": "2 SIM",
+            "camera": "119 MP",
+            "acc": "3407 мА * ч"
+        }
+    },
+    {
+        "id": "82575",
+        "name": "6.1\" Asus 96GB",
+        "price": 443195,
+        "bonus": 4431,
+        "characteristics": {
+            "processor": "8x5.0 ГГц",
+            "ram": "8 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM",
+            "camera": "116 MP",
+            "acc": "7509 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "42040",
+        "name": "7.3\" Samsung 176GB",
+        "price": 263732,
+        "bonus": 2637,
+        "characteristics": {
+            "processor": "2x2.4 ГГц",
+            "ram": "11 GB",
+            "resolution": "2560x2160",
+            "sim": "2 SIM",
+            "camera": "51 MP"
+        }
+    },
+    {
+        "id": "20174",
+        "name": "6.5\" OCZ 192GB",
+        "price": 354602,
+        "bonus": 3546,
+        "characteristics": {
+            "processor": "6x1.0 ГГц",
+            "ram": "2 GB",
+            "resolution": "1024x1440",
+            "sim": "2 SIM",
+            "camera": "37 MP",
+            "acc": "7174 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "40527",
+        "name": "5.3\" Broadcom 208GB",
+        "price": 126144,
+        "bonus": 1261,
+        "characteristics": {
+            "processor": "4x3.4 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "acc": "2455 мА * ч"
+        }
+    },
+    {
+        "id": "90998",
+        "name": "6.9\" Western Digital 48GB",
+        "price": 127674,
+        "bonus": 1276,
+        "characteristics": {
+            "ram": "9 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "59695",
+        "name": "5.2\" Microsoft 256GB",
+        "price": 432599,
+        "bonus": 4325,
+        "characteristics": {
+            "ram": "14 GB",
+            "sim": "2 SIM",
+            "camera": "47 MP",
+            "acc": "3685 мА * ч"
+        }
+    },
+    {
+        "id": "54109",
+        "name": "6.2\" Google Pixel 176GB",
+        "price": 101475,
+        "bonus": 1014,
+        "characteristics": {
+            "processor": "8x3.1 ГГц",
+            "ram": "6 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "acc": "4606 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "13163",
+        "name": "5.6\" Transcend 176GB",
+        "price": 416423,
+        "bonus": 4164,
+        "characteristics": {
+            "processor": "4x1.0 ГГц",
+            "sim": "2 SIM",
+            "acc": "4573 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "54227",
+        "name": "7.4\" Motorola 96GB",
+        "price": 487975,
+        "bonus": 4879,
+        "characteristics": {
+            "processor": "4x5.0 ГГц",
+            "resolution": "1024x1080",
+            "sim": "2 SIM",
+            "camera": "84 MP",
+            "acc": "2375 мА * ч"
+        }
+    },
+    {
+        "id": "63818",
+        "name": "6.7\" Xiaomi Mi 48GB",
+        "price": 152842,
+        "bonus": 1528,
+        "characteristics": {
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "camera": "71 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "14279",
+        "name": "5.4\" Corsair 48GB",
+        "price": 394916,
+        "bonus": 3949,
+        "characteristics": {
+            "processor": "4x2.6 ГГц",
+            "ram": "2 GB",
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "acc": "3610 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "51678",
+        "name": "6.2\" ARM 176GB",
+        "price": 459080,
+        "bonus": 4590,
+        "characteristics": {
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "camera": "107 MP",
+            "acc": "2194 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "14007",
+        "name": "5.3\" Dell 256GB",
+        "price": 116380,
+        "bonus": 1163,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "1920x1440",
+            "sim": "2 SIM",
+            "camera": "55 MP",
+            "acc": "5980 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "11314",
+        "name": "5.6\" Silicon Power 176GB",
+        "price": 126886,
+        "bonus": 1268,
+        "characteristics": {
+            "processor": "4x2.2 ГГц",
+            "ram": "16 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "acc": "6676 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "99745",
+        "name": "5.3\" Samsung 144GB",
+        "price": 105078,
+        "bonus": 1050,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "63 MP",
+            "acc": "5070 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "18607",
+        "name": "7.1\" Toshiba 208GB",
+        "price": 399797,
+        "bonus": 3997,
+        "characteristics": {
+            "processor": "8x1.6 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "camera": "53 MP"
+        }
+    },
+    {
+        "id": "95142",
+        "name": "5.4\" Seagate 192GB",
+        "price": 42405,
+        "bonus": 424,
+        "characteristics": {
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "camera": "45 MP"
+        }
+    },
+    {
+        "id": "25759",
+        "name": "6.3\" Seagate 256GB",
+        "price": 426192,
+        "bonus": 4261,
+        "characteristics": {
+            "processor": "8x2.8 ГГц",
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "acc": "6699 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "67070",
+        "name": "6.0\" HGST 192GB",
+        "price": 243746,
+        "bonus": 2437,
+        "characteristics": {
+            "ram": "13 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "camera": "45 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "84054",
+        "name": "5.8\" OCZ 112GB",
+        "price": 345790,
+        "bonus": 3457,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "1024x1200",
+            "sim": "2 SIM",
+            "camera": "36 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "53369",
+        "name": "5.5\" OPPO 208GB",
+        "price": 69777,
+        "bonus": 697,
+        "characteristics": {
+            "processor": "4x2.4 ГГц",
+            "ram": "7 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "54748",
+        "name": "7.4\" Nokia 112GB",
+        "price": 33502,
+        "bonus": 335,
+        "characteristics": {
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "87713",
+        "name": "6.3\" Micron 224GB",
+        "price": 456424,
+        "bonus": 4564,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "113 MP"
+        }
+    },
+    {
+        "id": "64139",
+        "name": "5.3\" Apple 96GB",
+        "price": 215899,
+        "bonus": 2158,
+        "characteristics": {
+            "resolution": "1366x1080",
+            "sim": "2 SIM",
+            "camera": "39 MP"
+        }
+    },
+    {
+        "id": "66153",
+        "name": "5.6\" SanDisk 240GB",
+        "price": 69383,
+        "bonus": 693,
+        "characteristics": {
+            "processor": "6x3.9 ГГц",
+            "ram": "3 GB",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "camera": "89 MP",
+            "acc": "4307 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "83013",
+        "name": "5.3\" iPhone 13 64GB",
+        "price": 108017,
+        "bonus": 1080,
+        "characteristics": {
+            "processor": "8x1.3 ГГц",
+            "ram": "10 GB",
+            "resolution": "1600x1440",
+            "sim": "2 SIM",
+            "camera": "42 MP",
+            "acc": "4555 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "79448",
+        "name": "6.6\" NVIDIA 160GB",
+        "price": 472919,
+        "bonus": 4729,
+        "characteristics": {
+            "processor": "8x3.5 ГГц",
+            "ram": "11 GB",
+            "resolution": "2560x768",
+            "sim": "2 SIM",
+            "camera": "97 MP"
+        }
+    },
+    {
+        "id": "74406",
+        "name": "6.2\" PNY 80GB",
+        "price": 480875,
+        "bonus": 4808,
+        "characteristics": {
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "83537",
+        "name": "6.7\" Qualcomm 240GB",
+        "price": 58996,
+        "bonus": 589,
+        "characteristics": {
+            "processor": "6x3.1 ГГц",
+            "ram": "10 GB",
+            "sim": "2 SIM",
+            "camera": "64 MP",
+            "acc": "3551 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "28276",
+        "name": "5.8\" Blackberry 80GB",
+        "price": 317835,
+        "bonus": 3178,
+        "characteristics": {
+            "ram": "14 GB",
+            "sim": "2 SIM",
+            "camera": "33 MP",
+            "acc": "2029 мА * ч"
+        }
+    },
+    {
+        "id": "76686",
+        "name": "7.3\" iPhone 13 80GB",
+        "price": 137061,
+        "bonus": 1370,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "74414",
+        "name": "6.4\" MSI 64GB",
+        "price": 71958,
+        "bonus": 719,
+        "characteristics": {
+            "processor": "8x4.4 ГГц",
+            "ram": "9 GB",
+            "resolution": "1366x2160",
+            "sim": "2 SIM",
+            "camera": "118 MP",
+            "acc": "6591 мА * ч"
+        }
+    },
+    {
+        "id": "81495",
+        "name": "6.9\" Nokia 192GB",
+        "price": 114612,
+        "bonus": 1146,
+        "characteristics": {
+            "ram": "16 GB",
+            "resolution": "1024x1366",
+            "sim": "2 SIM",
+            "camera": "40 MP",
+            "acc": "2026 мА * ч"
+        }
+    },
+    {
+        "id": "89877",
+        "name": "5.2\" ASUS 128GB",
+        "price": 344213,
+        "bonus": 3442,
+        "characteristics": {
+            "processor": "8x1.4 ГГц",
+            "ram": "4 GB",
+            "sim": "2 SIM",
+            "acc": "7948 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "74781",
+        "name": "6.3\" Acer 160GB",
+        "price": 443476,
+        "bonus": 4434,
+        "characteristics": {
+            "ram": "7 GB",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "117 MP"
+        }
+    },
+    {
+        "id": "23861",
+        "name": "6.9\" iPhone X 192GB",
+        "price": 384418,
+        "bonus": 3844,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "77 MP",
+            "acc": "5780 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "23746",
+        "name": "7.0\" ASUS 240GB",
+        "price": 217890,
+        "bonus": 2178,
+        "characteristics": {
+            "processor": "8x4.7 ГГц",
+            "ram": "8 GB",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "camera": "126 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "33990",
+        "name": "7.3\" AMD 112GB",
+        "price": 240077,
+        "bonus": 2400,
+        "characteristics": {
+            "ram": "10 GB",
+            "resolution": "1024x1080",
+            "sim": "2 SIM",
+            "camera": "64 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "10819",
+        "name": "6.1\" iPhone 12 256GB",
+        "price": 205968,
+        "bonus": 2059,
+        "characteristics": {
+            "processor": "2x2.1 ГГц",
+            "resolution": "2560x1366",
+            "sim": "2 SIM",
+            "camera": "107 MP",
+            "acc": "7968 мА * ч"
+        }
+    },
+    {
+        "id": "12067",
+        "name": "5.9\" Transcend 160GB",
+        "price": 259807,
+        "bonus": 2598,
+        "characteristics": {
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "acc": "6390 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "21717",
+        "name": "7.1\" Xilinx 128GB",
+        "price": 11259,
+        "bonus": 112,
+        "characteristics": {
+            "processor": "8x4.3 ГГц",
+            "ram": "6 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "63 MP",
+            "acc": "4400 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "47320",
+        "name": "5.1\" Xilinx 128GB",
+        "price": 156514,
+        "bonus": 1565,
+        "characteristics": {
+            "resolution": "1366x1200",
+            "sim": "2 SIM",
+            "camera": "92 MP",
+            "acc": "2902 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "44350",
+        "name": "5.1\" ZTE 64GB",
+        "price": 484858,
+        "bonus": 4848,
+        "characteristics": {
+            "processor": "6x2.6 ГГц",
+            "ram": "12 GB",
+            "resolution": "1920x1080",
+            "sim": "2 SIM",
+            "camera": "112 MP"
+        }
+    },
+    {
+        "id": "52721",
+        "name": "7.1\" HTC 64GB",
+        "price": 266664,
+        "bonus": 2666,
+        "characteristics": {
+            "processor": "4x3.2 ГГц",
+            "sim": "2 SIM",
+            "acc": "6774 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "56133",
+        "name": "7.0\" Dell 112GB",
+        "price": 171098,
+        "bonus": 1710,
+        "characteristics": {
+            "resolution": "1920x1200",
+            "sim": "2 SIM",
+            "camera": "100 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "14891",
+        "name": "7.0\" Samsung 256GB",
+        "price": 288274,
+        "bonus": 2882,
+        "characteristics": {
+            "resolution": "2560x1366",
+            "sim": "2 SIM",
+            "acc": "2376 мА * ч"
+        }
+    },
+    {
+        "id": "21290",
+        "name": "6.0\" Silicon Power 240GB",
+        "price": 436912,
+        "bonus": 4369,
+        "characteristics": {
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "45 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "22102",
+        "name": "6.8\" ZTE 160GB",
+        "price": 52875,
+        "bonus": 528,
+        "characteristics": {
+            "processor": "8x2.2 ГГц",
+            "ram": "12 GB",
+            "sim": "2 SIM",
+            "camera": "87 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "92786",
+        "name": "5.9\" ADATA 224GB",
+        "price": 497587,
+        "bonus": 4975,
+        "characteristics": {
+            "ram": "6 GB",
+            "resolution": "1280x1080",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "37737",
+        "name": "5.4\" Corsair 64GB",
+        "price": 85767,
+        "bonus": 857,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "acc": "7912 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "79395",
+        "name": "6.1\" HTC 240GB",
+        "price": 184784,
+        "bonus": 1847,
+        "characteristics": {
+            "processor": "6x2.3 ГГц",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "65999",
+        "name": "7.0\" LaCie 160GB",
+        "price": 26706,
+        "bonus": 267,
+        "characteristics": {
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "acc": "3894 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "50950",
+        "name": "5.0\" iPhone X 64GB",
+        "price": 319977,
+        "bonus": 3199,
+        "characteristics": {
+            "processor": "8x3.0 ГГц",
+            "resolution": "1366x1440",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "46417",
+        "name": "5.8\" Fujitsu 256GB",
+        "price": 236221,
+        "bonus": 2362,
+        "characteristics": {
+            "resolution": "1280x1366",
+            "sim": "2 SIM",
+            "camera": "79 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "39417",
+        "name": "6.1\" Google Pixel 112GB",
+        "price": 471979,
+        "bonus": 4719,
+        "characteristics": {
+            "processor": "2x2.1 ГГц",
+            "ram": "15 GB",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "94785",
+        "name": "5.6\" Alcatel 64GB",
+        "price": 371424,
+        "bonus": 3714,
+        "characteristics": {
+            "processor": "6x3.5 ГГц",
+            "resolution": "1920x768",
+            "sim": "2 SIM",
+            "camera": "52 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "88176",
+        "name": "6.2\" Google Pixel 192GB",
+        "price": 451351,
+        "bonus": 4513,
+        "characteristics": {
+            "processor": "6x4.8 ГГц",
+            "sim": "2 SIM",
+            "acc": "4702 мА * ч"
+        }
+    },
+    {
+        "id": "52195",
+        "name": "7.0\" Xiaomi Mi 32GB",
+        "price": 367471,
+        "bonus": 3674,
+        "characteristics": {
+            "processor": "6x1.0 ГГц",
+            "sim": "2 SIM",
+            "camera": "61 MP",
+            "acc": "6840 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "20290",
+        "name": "5.3\" HTC 208GB",
+        "price": 262904,
+        "bonus": 2629,
+        "characteristics": {
+            "ram": "4 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "camera": "125 MP",
+            "acc": "4465 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "59732",
+        "name": "7.4\" HGST 16GB",
+        "price": 496700,
+        "bonus": 4967,
+        "characteristics": {
+            "processor": "2x2.1 ГГц",
+            "sim": "2 SIM",
+            "camera": "97 MP",
+            "acc": "2131 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "11210",
+        "name": "6.2\" Toshiba 144GB",
+        "price": 27270,
+        "bonus": 272,
+        "characteristics": {
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "acc": "7254 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "45280",
+        "name": "5.0\" OPPO 144GB",
+        "price": 419803,
+        "bonus": 4198,
+        "characteristics": {
+            "processor": "4x3.3 ГГц",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "camera": "77 MP"
+        }
+    },
+    {
+        "id": "64416",
+        "name": "7.5\" iPhone X 192GB",
+        "price": 229680,
+        "bonus": 2296,
+        "characteristics": {
+            "ram": "13 GB",
+            "resolution": "1600x768",
+            "sim": "2 SIM",
+            "acc": "2451 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "80880",
+        "name": "5.4\" Gigabyte 224GB",
+        "price": 66401,
+        "bonus": 664,
+        "characteristics": {
+            "processor": "6x1.2 ГГц",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "69 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "71942",
+        "name": "5.1\" Xiaomi Mi 96GB",
+        "price": 499741,
+        "bonus": 4997,
+        "characteristics": {
+            "processor": "6x4.0 ГГц",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "76421",
+        "name": "5.7\" Transcend 32GB",
+        "price": 370118,
+        "bonus": 3701,
+        "characteristics": {
+            "processor": "4x3.5 ГГц",
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "120 MP",
+            "acc": "4841 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "15237",
+        "name": "5.9\" ASUS 48GB",
+        "price": 42653,
+        "bonus": 426,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "63 MP"
+        }
+    },
+    {
+        "id": "20225",
+        "name": "5.8\" PNY 48GB",
+        "price": 446585,
+        "bonus": 4465,
+        "characteristics": {
+            "processor": "2x4.4 ГГц",
+            "sim": "2 SIM",
+            "camera": "60 MP",
+            "acc": "2141 мА * ч"
+        }
+    },
+    {
+        "id": "13894",
+        "name": "7.3\" HTC 160GB",
+        "price": 262003,
+        "bonus": 2620,
+        "characteristics": {
+            "processor": "8x2.1 ГГц",
+            "ram": "13 GB",
+            "resolution": "1366x1440",
+            "sim": "2 SIM",
+            "acc": "7420 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "26599",
+        "name": "6.6\" Gigabyte 256GB",
+        "price": 249580,
+        "bonus": 2495,
+        "characteristics": {
+            "ram": "15 GB",
+            "resolution": "1024x768",
+            "sim": "2 SIM",
+            "camera": "34 MP",
+            "acc": "4855 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "69808",
+        "name": "6.6\" NVIDIA 192GB",
+        "price": 121497,
+        "bonus": 1214,
+        "characteristics": {
+            "ram": "16 GB",
+            "resolution": "2560x1440",
+            "sim": "2 SIM",
+            "acc": "4257 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "74815",
+        "name": "7.0\" Xilinx 176GB",
+        "price": 194084,
+        "bonus": 1940,
+        "characteristics": {
+            "processor": "6x2.1 ГГц",
+            "resolution": "1366x1440",
+            "sim": "2 SIM",
+            "camera": "100 MP"
+        }
+    },
+    {
+        "id": "42993",
+        "name": "6.7\" Toshiba 128GB",
+        "price": 361552,
+        "bonus": 3615,
+        "characteristics": {
+            "processor": "6x2.5 ГГц",
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "camera": "99 MP"
+        }
+    },
+    {
+        "id": "96215",
+        "name": "5.2\" Nokia 64GB",
+        "price": 169984,
+        "bonus": 1699,
+        "characteristics": {
+            "processor": "8x4.3 ГГц",
+            "ram": "9 GB",
+            "sim": "2 SIM",
+            "camera": "82 MP",
+            "acc": "5136 мА * ч"
+        }
+    },
+    {
+        "id": "78565",
+        "name": "6.4\" HGST 128GB",
+        "price": 361171,
+        "bonus": 3611,
+        "characteristics": {
+            "sim": "2 SIM",
+            "acc": "5294 мА * ч"
+        }
+    },
+    {
+        "id": "73322",
+        "name": "7.0\" Micron 144GB",
+        "price": 390305,
+        "bonus": 3903,
+        "characteristics": {
+            "ram": "12 GB",
+            "resolution": "1280x1366",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "88364",
+        "name": "6.2\" Xilinx 224GB",
+        "price": 450911,
+        "bonus": 4509,
+        "characteristics": {
+            "processor": "6x4.1 ГГц",
+            "ram": "13 GB",
+            "resolution": "1024x1366",
+            "sim": "2 SIM",
+            "camera": "16 MP",
+            "acc": "4066 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "70322",
+        "name": "5.0\" Nokia 64GB",
+        "price": 433886,
+        "bonus": 4338,
+        "characteristics": {
+            "ram": "8 GB",
+            "sim": "2 SIM",
+            "camera": "42 MP"
+        }
+    },
+    {
+        "id": "80406",
+        "name": "5.3\" Samsung S21 192GB",
+        "price": 460746,
+        "bonus": 4607,
+        "characteristics": {
+            "resolution": "1600x768",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "66433",
+        "name": "6.0\" ASUS 176GB",
+        "price": 104863,
+        "bonus": 1048,
+        "characteristics": {
+            "processor": "6x1.7 ГГц",
+            "resolution": "1366x768",
+            "sim": "2 SIM",
+            "camera": "26 MP",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "62300",
+        "name": "6.8\" Sony 192GB",
+        "price": 407782,
+        "bonus": 4077,
+        "characteristics": {
+            "processor": "6x2.0 ГГц",
+            "sim": "2 SIM",
+            "acc": "2750 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "39082",
+        "name": "5.8\" Blackberry 96GB",
+        "price": 215134,
+        "bonus": 2151,
+        "characteristics": {
+            "resolution": "1600x2160",
+            "sim": "2 SIM",
+            "camera": "60 MP"
+        }
+    },
+    {
+        "id": "95296",
+        "name": "5.2\" Xiaomi Mi 240GB",
+        "price": 97349,
+        "bonus": 973,
+        "characteristics": {
+            "processor": "2x4.8 ГГц",
+            "ram": "4 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "camera": "40 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "78379",
+        "name": "5.4\" Kingston 112GB",
+        "price": 12170,
+        "bonus": 121,
+        "characteristics": {
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "camera": "40 MP",
+            "acc": "6454 мА * ч"
+        }
+    },
+    {
+        "id": "80329",
+        "name": "6.6\" Seagate 256GB",
+        "price": 399347,
+        "bonus": 3993,
+        "characteristics": {
+            "processor": "4x2.8 ГГц",
+            "ram": "14 GB",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "acc": "6489 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "19415",
+        "name": "6.5\" Samsung S21 224GB",
+        "price": 42807,
+        "bonus": 428,
+        "characteristics": {
+            "processor": "2x1.2 ГГц",
+            "ram": "9 GB",
+            "resolution": "1280x1080",
+            "sim": "2 SIM",
+            "acc": "6444 мА * ч"
+        }
+    },
+    {
+        "id": "77565",
+        "name": "7.2\" Sony 144GB",
+        "price": 118220,
+        "bonus": 1182,
+        "characteristics": {
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "88889",
+        "name": "5.7\" Samsung Note 96GB",
+        "price": 360501,
+        "bonus": 3605,
+        "characteristics": {
+            "ram": "11 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "62538",
+        "name": "7.2\" Google Pixel 96GB",
+        "price": 126655,
+        "bonus": 1266,
+        "characteristics": {
+            "resolution": "1600x1366",
+            "sim": "2 SIM",
+            "acc": "3171 мА * ч"
+        }
+    },
+    {
+        "id": "29719",
+        "name": "5.5\" Texas Instruments 112GB",
+        "price": 363172,
+        "bonus": 3631,
+        "characteristics": {
+            "processor": "2x3.2 ГГц",
+            "ram": "16 GB",
+            "resolution": "1280x1440",
+            "sim": "2 SIM",
+            "camera": "33 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "46873",
+        "name": "6.7\" OCZ 128GB",
+        "price": 456723,
+        "bonus": 4567,
+        "characteristics": {
+            "processor": "6x1.1 ГГц",
+            "ram": "12 GB",
+            "resolution": "1920x1366",
+            "sim": "2 SIM",
+            "camera": "41 MP"
+        }
+    },
+    {
+        "id": "63187",
+        "name": "7.3\" SanDisk 16GB",
+        "price": 418854,
+        "bonus": 4188,
+        "characteristics": {
+            "processor": "4x1.3 ГГц",
+            "resolution": "1024x1440",
+            "sim": "2 SIM",
+            "camera": "89 MP",
+            "acc": "6240 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "48821",
+        "name": "6.6\" Hewlett-Packard 48GB",
+        "price": 373215,
+        "bonus": 3732,
+        "characteristics": {
+            "sim": "2 SIM",
+            "camera": "108 MP",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "19459",
+        "name": "5.7\" Fujitsu 80GB",
+        "price": 404305,
+        "bonus": 4043,
+        "characteristics": {
+            "processor": "4x4.6 ГГц",
+            "ram": "13 GB",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "32302",
+        "name": "5.8\" ARM 208GB",
+        "price": 36826,
+        "bonus": 368,
+        "characteristics": {
+            "processor": "2x3.0 ГГц",
+            "resolution": "2560x1440",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "86826",
+        "name": "6.1\" Motorola 80GB",
+        "price": 22445,
+        "bonus": 224,
+        "characteristics": {
+            "processor": "2x3.1 ГГц",
+            "ram": "4 GB",
+            "sim": "2 SIM",
+            "acc": "7043 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "44492",
+        "name": "5.0\" Microsoft 208GB",
+        "price": 256175,
+        "bonus": 2561,
+        "characteristics": {
+            "processor": "4x1.0 ГГц",
+            "ram": "12 GB",
+            "resolution": "1600x768",
+            "sim": "2 SIM",
+            "camera": "81 MP"
+        }
+    },
+    {
+        "id": "85705",
+        "name": "5.7\" Silicon Power 96GB",
+        "price": 430576,
+        "bonus": 4305,
+        "characteristics": {
+            "resolution": "1920x2160",
+            "sim": "2 SIM",
+            "camera": "60 MP"
+        }
+    },
+    {
+        "id": "96538",
+        "name": "6.9\" Corsair 48GB",
+        "price": 213753,
+        "bonus": 2137,
+        "characteristics": {
+            "processor": "2x3.2 ГГц",
+            "resolution": "1920x1366",
+            "sim": "2 SIM",
+            "camera": "44 MP",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "91486",
+        "name": "6.6\" Acer 176GB",
+        "price": 129555,
+        "bonus": 1295,
+        "characteristics": {
+            "processor": "8x1.1 ГГц",
+            "resolution": "1920x768",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "58978",
+        "name": "6.1\" Marvell 80GB",
+        "price": 480550,
+        "bonus": 4805,
+        "characteristics": {
+            "processor": "6x2.3 ГГц",
+            "ram": "6 GB",
+            "sim": "2 SIM",
+            "acc": "5309 мА * ч"
+        }
+    },
+    {
+        "id": "47632",
+        "name": "5.8\" Marvell 160GB",
+        "price": 390184,
+        "bonus": 3901,
+        "characteristics": {
+            "processor": "8x4.0 ГГц",
+            "ram": "15 GB",
+            "resolution": "1600x1080",
+            "sim": "2 SIM",
+            "camera": "102 MP",
+            "acc": "4260 мА * ч",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "19922",
+        "name": "6.6\" iPhone 13 208GB",
+        "price": 288922,
+        "bonus": 2889,
+        "characteristics": {
+            "ram": "8 GB",
+            "resolution": "1366x1200",
+            "sim": "2 SIM",
+            "camera": "43 MP",
+            "acc": "3314 мА * ч"
+        }
+    },
+    {
+        "id": "88721",
+        "name": "5.9\" Lenovo 256GB",
+        "price": 217701,
+        "bonus": 2177,
+        "characteristics": {
+            "processor": "4x2.7 ГГц",
+            "ram": "4 GB",
+            "resolution": "1600x768",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "11826",
+        "name": "7.1\" Blackberry 32GB",
+        "price": 224746,
+        "bonus": 2247,
+        "characteristics": {
+            "processor": "2x1.3 ГГц",
+            "ram": "13 GB",
+            "resolution": "1920x1200",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "62618",
+        "name": "6.8\" HGST 112GB",
+        "price": 170023,
+        "bonus": 1700,
+        "characteristics": {
+            "processor": "6x1.6 ГГц",
+            "ram": "14 GB",
+            "resolution": "1366x768",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "87541",
+        "name": "5.7\" Marvell 128GB",
+        "price": 413665,
+        "bonus": 4136,
+        "characteristics": {
+            "processor": "6x3.4 ГГц",
+            "ram": "5 GB",
+            "sim": "2 SIM",
+            "camera": "17 MP",
+            "acc": "7017 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "29897",
+        "name": "7.1\" Alcatel 112GB",
+        "price": 470823,
+        "bonus": 4708,
+        "characteristics": {
+            "ram": "6 GB",
+            "resolution": "2560x1080",
+            "sim": "2 SIM",
+            "camera": "87 MP",
+            "acc": "5075 мА * ч"
+        }
+    },
+    {
+        "id": "14069",
+        "name": "6.7\" ARM 64GB",
+        "price": 403358,
+        "bonus": 4033,
+        "characteristics": {
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "acc": "4356 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "21084",
+        "name": "5.0\" LG 176GB",
+        "price": 226279,
+        "bonus": 2262,
+        "characteristics": {
+            "ram": "10 GB",
+            "resolution": "1920x1200",
+            "sim": "2 SIM",
+            "camera": "128 MP",
+            "acc": "5057 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "85527",
+        "name": "5.6\" Sony 112GB",
+        "price": 421215,
+        "bonus": 4212,
+        "characteristics": {
+            "ram": "3 GB",
+            "sim": "2 SIM",
+            "camera": "30 MP",
+            "acc": "2996 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "37762",
+        "name": "7.3\" Huawei P 16GB",
+        "price": 458644,
+        "bonus": 4586,
+        "characteristics": {
+            "processor": "4x4.6 ГГц",
+            "resolution": "1600x1200",
+            "sim": "2 SIM",
+            "camera": "77 MP"
+        }
+    },
+    {
+        "id": "98903",
+        "name": "6.1\" iPhone X 192GB",
+        "price": 439392,
+        "bonus": 4393,
+        "characteristics": {
+            "ram": "13 GB",
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "camera": "71 MP",
+            "acc": "4724 мА * ч"
+        }
+    },
+    {
+        "id": "80018",
+        "name": "5.5\" Apple 32GB",
+        "price": 366359,
+        "bonus": 3663,
+        "characteristics": {
+            "processor": "4x1.6 ГГц",
+            "resolution": "1280x768",
+            "sim": "2 SIM",
+            "camera": "45 MP",
+            "acc": "5612 мА * ч",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "90677",
+        "name": "5.7\" Blackberry 160GB",
+        "price": 354965,
+        "bonus": 3549,
+        "characteristics": {
+            "resolution": "1366x1366",
+            "sim": "2 SIM",
+            "matrix": "IPS"
+        }
+    },
+    {
+        "id": "80825",
+        "name": "5.2\" Toshiba 48GB",
+        "price": 325228,
+        "bonus": 3252,
+        "characteristics": {
+            "processor": "8x2.9 ГГц",
+            "ram": "13 GB",
+            "resolution": "2560x1366",
+            "sim": "2 SIM",
+            "acc": "6642 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "32292",
+        "name": "7.3\" Alcatel 128GB",
+        "price": 40175,
+        "bonus": 401,
+        "characteristics": {
+            "processor": "8x2.5 ГГц",
+            "resolution": "1024x2160",
+            "sim": "2 SIM",
+            "camera": "40 MP",
+            "acc": "3653 мА * ч",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "30284",
+        "name": "7.2\" AMD 16GB",
+        "price": 404378,
+        "bonus": 4043,
+        "characteristics": {
+            "processor": "2x1.8 ГГц",
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "matrix": "AMOLED"
+        }
+    },
+    {
+        "id": "99213",
+        "name": "6.8\" Apple 48GB",
+        "price": 328838,
+        "bonus": 3288,
+        "characteristics": {
+            "processor": "6x2.2 ГГц",
+            "sim": "2 SIM",
+            "matrix": "OLED"
+        }
+    },
+    {
+        "id": "35101",
+        "name": "7.1\" Dell 176GB",
+        "price": 229526,
+        "bonus": 2295,
+        "characteristics": {
+            "processor": "8x3.0 ГГц",
+            "ram": "4 GB",
+            "sim": "2 SIM"
+        }
+    },
+    {
+        "id": "87493",
+        "name": "6.1\" Broadcom 160GB",
+        "price": 251290,
+        "bonus": 2512,
+        "characteristics": {
+            "processor": "4x2.0 ГГц",
+            "ram": "13 GB",
+            "sim": "2 SIM",
+            "acc": "2598 мА * ч",
+            "matrix": "AMOLED"
+        }
+    }
+]

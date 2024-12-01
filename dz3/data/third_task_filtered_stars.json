@@ -1,0 +1,162 @@
+[
+    {
+        "name":"Антарес 6050",
+        "constellation":"Лев",
+        "spectral_class":"V3X",
+        "radius":532291059,
+        "rotation_days":925.64,
+        "age_billion_years":1.84,
+        "distance_million_km":1704446.52,
+        "absolute_magnitude_million_km":4.96
+    },
+    {
+        "name":"Вега 6998",
+        "constellation":"Лев",
+        "spectral_class":"V4I",
+        "radius":250188866,
+        "rotation_days":231.19,
+        "age_billion_years":1.43,
+        "distance_million_km":8956524.9199999999,
+        "absolute_magnitude_million_km":7.91
+    },
+    {
+        "name":"Фомальгаут 1031",
+        "constellation":"Лев",
+        "spectral_class":"L3G",
+        "radius":325858276,
+        "rotation_days":24.29,
+        "age_billion_years":0.45,
+        "distance_million_km":6787950.7400000002,
+        "absolute_magnitude_million_km":9.04
+    },
+    {
+        "name":"Канопус 6486",
+        "constellation":"Лев",
+        "spectral_class":"T7E",
+        "radius":613936252,
+        "rotation_days":557.3,
+        "age_billion_years":1.26,
+        "distance_million_km":7066961.2199999997,
+        "absolute_magnitude_million_km":4.51
+    },
+    {
+        "name":"Антарес 9544",
+        "constellation":"Лев",
+        "spectral_class":"A6M",
+        "radius":590194986,
+        "rotation_days":765.99,
+        "age_billion_years":5.92,
+        "distance_million_km":843204.51,
+        "absolute_magnitude_million_km":6.42
+    },
+    {
+        "name":"Альфа Центавра 7089",
+        "constellation":"Лев",
+        "spectral_class":"J5M",
+        "radius":516567063,
+        "rotation_days":195.64,
+        "age_billion_years":1.35,
+        "distance_million_km":8003615.04,
+        "absolute_magnitude_million_km":9.79
+    },
+    {
+        "name":"Вега 4476",
+        "constellation":"Лев",
+        "spectral_class":"P0V",
+        "radius":558986892,
+        "rotation_days":258.11,
+        "age_billion_years":0.95,
+        "distance_million_km":9813140.6999999993,
+        "absolute_magnitude_million_km":6.09
+    },
+    {
+        "name":"Вега 6324",
+        "constellation":"Лев",
+        "spectral_class":"K5E",
+        "radius":683399838,
+        "rotation_days":411.58,
+        "age_billion_years":2.6,
+        "distance_million_km":3743312.1299999999,
+        "absolute_magnitude_million_km":1.14
+    },
+    {
+        "name":"Хадар 2627",
+        "constellation":"Лев",
+        "spectral_class":"W7U",
+        "radius":456244556,
+        "rotation_days":445.52,
+        "age_billion_years":2.83,
+        "distance_million_km":3687460.3199999998,
+        "absolute_magnitude_million_km":5.27
+    },
+    {
+        "name":"Ригель 1751",
+        "constellation":"Лев",
+        "spectral_class":"L1O",
+        "radius":781676190,
+        "rotation_days":682.01,
+        "age_billion_years":4.3,
+        "distance_million_km":205732.2,
+        "absolute_magnitude_million_km":1.42
+    },
+    {
+        "name":"Альфа Центавра 7714",
+        "constellation":"Лев",
+        "spectral_class":"U9Y",
+        "radius":319334556,
+        "rotation_days":812.28,
+        "age_billion_years":5.71,
+        "distance_million_km":531854.99,
+        "absolute_magnitude_million_km":2.81
+    },
+    {
+        "name":"Полярная звезда 6441",
+        "constellation":"Лев",
+        "spectral_class":"X8E",
+        "radius":601467794,
+        "rotation_days":867.96,
+        "age_billion_years":1.51,
+        "distance_million_km":2370263.71,
+        "absolute_magnitude_million_km":7.91
+    },
+    {
+        "name":"Солнце 9467",
+        "constellation":"Лев",
+        "spectral_class":"H3J",
+        "radius":730291681,
+        "rotation_days":779.9,
+        "age_billion_years":0.34,
+        "distance_million_km":6940821.7199999997,
+        "absolute_magnitude_million_km":3.54
+    },
+    {
+        "name":"Бетельгейзе 7396",
+        "constellation":"Лев",
+        "spectral_class":"A6X",
+        "radius":365763494,
+        "rotation_days":621.57,
+        "age_billion_years":1.65,
+        "distance_million_km":4800278.5999999996,
+        "absolute_magnitude_million_km":8.72
+    },
+    {
+        "name":"Полярная звезда 6842",
+        "constellation":"Лев",
+        "spectral_class":"T5U",
+        "radius":779279876,
+        "rotation_days":73.52,
+        "age_billion_years":4.1,
+        "distance_million_km":1847943.8,
+        "absolute_magnitude_million_km":5.68
+    },
+    {
+        "name":"Хадар 6459",
+        "constellation":"Лев",
+        "spectral_class":"X8C",
+        "radius":308945921,
+        "rotation_days":753.88,
+        "age_billion_years":3.18,
+        "distance_million_km":7021101.9000000004,
+        "absolute_magnitude_million_km":6.15
+    }
+]
