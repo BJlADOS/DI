@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "Nivea",
+        "count": 39
+    },
+    {
+        "_id": "Too Faced",
+        "count": 43
+    },
+    {
+        "_id": "Dior",
+        "count": 39
+    },
+    {
+        "_id": "Sephora",
+        "count": 36
+    },
+    {
+        "_id": "Guerlain",
+        "count": 32
+    },
+    {
+        "_id": "MAC",
+        "count": 50
+    },
+    {
+        "_id": "Benefit",
+        "count": 40
+    },
+    {
+        "_id": "Revlon",
+        "count": 41
+    },
+    {
+        "_id": "L'Oreal",
+        "count": 28
+    },
+    {
+        "_id": "Estee Lauder",
+        "count": 37
+    },
+    {
+        "_id": "Urban Decay",
+        "count": 40
+    },
+    {
+        "_id": "Maybelline",
+        "count": 40
+    },
+    {
+        "_id": "Chanel",
+        "count": 43
+    },
+    {
+        "_id": "Clinique",
+        "count": 47
+    },
+    {
+        "_id": "NYX",
+        "count": 45
+    }
+]

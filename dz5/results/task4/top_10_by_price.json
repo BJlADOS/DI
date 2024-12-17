@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "6761b71ce5234955da257344",
+        "product_name": "Matte Bronzer",
+        "brand": "Too Faced",
+        "price": 149.76,
+        "category": "Bronzer",
+        "rating": 2.4,
+        "reviews": 2800
+    },
+    {
+        "_id": "6761b71ce5234955da25723a",
+        "product_name": "Hydrating Foundation",
+        "brand": "Clinique",
+        "price": 149.57,
+        "category": "Powder",
+        "rating": 4.6,
+        "reviews": 2187
+    },
+    {
+        "_id": "6761b71ce5234955da2571f8",
+        "product_name": "Powder Blush",
+        "brand": "MAC",
+        "price": 149.5,
+        "category": "Eyeliner",
+        "rating": 2.5,
+        "reviews": 652
+    },
+    {
+        "_id": "6761b71ce5234955da2572d8",
+        "product_name": "Smoothing Primer",
+        "brand": "Revlon",
+        "price": 149.4,
+        "category": "Foundation",
+        "rating": 2.3,
+        "reviews": 2341
+    },
+    {
+        "_id": "6761b71ce5234955da257347",
+        "product_name": "Fixing Spray",
+        "brand": "Benefit",
+        "price": 149.27,
+        "category": "Contour",
+        "rating": 3.0,
+        "reviews": 2602
+    },
+    {
+        "_id": "6761b71ce5234955da2572f2",
+        "product_name": "Color Correcting CC Cream",
+        "brand": "Estee Lauder",
+        "price": 149.21,
+        "category": "Powder",
+        "rating": 2.3,
+        "reviews": 477
+    },
+    {
+        "_id": "6761b71ce5234955da257195",
+        "product_name": "Powder Blush",
+        "brand": "Chanel",
+        "price": 148.85,
+        "category": "Concealer",
+        "rating": 2.4,
+        "reviews": 1379
+    },
+    {
+        "_id": "6761b71ce5234955da25722e",
+        "product_name": "Gel Eyeliner",
+        "brand": "Dior",
+        "price": 148.84,
+        "category": "Concealer",
+        "rating": 5.0,
+        "reviews": 2699
+    },
+    {
+        "_id": "6761b71ce5234955da2571c9",
+        "product_name": "Lengthening Mascara",
+        "brand": "Chanel",
+        "price": 148.39,
+        "category": "Concealer",
+        "rating": 2.9,
+        "reviews": 2338
+    },
+    {
+        "_id": "6761b71ce5234955da25717e",
+        "product_name": "Gel Eyeliner",
+        "brand": "Chanel",
+        "price": 148.14,
+        "category": "Eyeliner",
+        "rating": 3.0,
+        "reviews": 2571
+    }
+]

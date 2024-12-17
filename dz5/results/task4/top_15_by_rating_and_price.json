@@ -1,0 +1,137 @@
+[
+    {
+        "_id": "6761b71ce5234955da25723a",
+        "product_name": "Hydrating Foundation",
+        "brand": "Clinique",
+        "price": 149.57,
+        "category": "Powder",
+        "rating": 4.6,
+        "reviews": 2187
+    },
+    {
+        "_id": "6761b71ce5234955da25722e",
+        "product_name": "Gel Eyeliner",
+        "brand": "Dior",
+        "price": 148.84,
+        "category": "Concealer",
+        "rating": 5.0,
+        "reviews": 2699
+    },
+    {
+        "_id": "6761b71ce5234955da257315",
+        "product_name": "Shimmer Eyeshadow",
+        "brand": "Benefit",
+        "price": 147.35,
+        "category": "Bronzer",
+        "rating": 4.6,
+        "reviews": 1625
+    },
+    {
+        "_id": "6761b71ce5234955da257179",
+        "product_name": "Matte Lipstick",
+        "brand": "L'Oreal",
+        "price": 146.55,
+        "category": "Eyeliner",
+        "rating": 4.7,
+        "reviews": 1409
+    },
+    {
+        "_id": "6761b71ce5234955da257386",
+        "product_name": "Glow Highlighter",
+        "brand": "Guerlain",
+        "price": 142.62,
+        "category": "Eyeshadow Palette",
+        "rating": 4.8,
+        "reviews": 1377
+    },
+    {
+        "_id": "6761b71ce5234955da25728b",
+        "product_name": "Light BB Cream",
+        "brand": "Sephora",
+        "price": 142.4,
+        "category": "BB Cream",
+        "rating": 4.6,
+        "reviews": 2868
+    },
+    {
+        "_id": "6761b71ce5234955da257314",
+        "product_name": "Fixing Spray",
+        "brand": "Urban Decay",
+        "price": 137.94,
+        "category": "Setting Spray",
+        "rating": 5.0,
+        "reviews": 58
+    },
+    {
+        "_id": "6761b71ce5234955da257265",
+        "product_name": "Hydrating Foundation",
+        "brand": "Nivea",
+        "price": 137.3,
+        "category": "Foundation",
+        "rating": 4.9,
+        "reviews": 2413
+    },
+    {
+        "_id": "6761b71ce5234955da257240",
+        "product_name": "Compact Powder",
+        "brand": "Revlon",
+        "price": 135.63,
+        "category": "Powder",
+        "rating": 4.8,
+        "reviews": 1553
+    },
+    {
+        "_id": "6761b71ce5234955da2572ae",
+        "product_name": "Light BB Cream",
+        "brand": "Clinique",
+        "price": 134.09,
+        "category": "Primer",
+        "rating": 4.8,
+        "reviews": 654
+    },
+    {
+        "_id": "6761b71ce5234955da257181",
+        "product_name": "Liquid Concealer",
+        "brand": "Maybelline",
+        "price": 126.1,
+        "category": "Blush",
+        "rating": 4.6,
+        "reviews": 870
+    },
+    {
+        "_id": "6761b71ce5234955da257317",
+        "product_name": "Cream Contour",
+        "brand": "NYX",
+        "price": 124.36,
+        "category": "Highlighter",
+        "rating": 4.9,
+        "reviews": 842
+    },
+    {
+        "_id": "6761b71ce5234955da257273",
+        "product_name": "Hydrating Foundation",
+        "brand": "Nivea",
+        "price": 123.24,
+        "category": "CC Cream",
+        "rating": 4.9,
+        "reviews": 2624
+    },
+    {
+        "_id": "6761b71ce5234955da257368",
+        "product_name": "Glow Highlighter",
+        "brand": "Too Faced",
+        "price": 120.45,
+        "category": "Bronzer",
+        "rating": 4.7,
+        "reviews": 974
+    },
+    {
+        "_id": "6761b71ce5234955da25730e",
+        "product_name": "Fixing Spray",
+        "brand": "NYX",
+        "price": 119.8,
+        "category": "Bronzer",
+        "rating": 4.8,
+        "reviews": 83
+    }
+]

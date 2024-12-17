@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "6761b71ce5234955da25719d",
+        "product_name": "Gel Eyeliner",
+        "brand": "Dior",
+        "price": 12.22,
+        "category": "Lipstick",
+        "rating": 2.2,
+        "reviews": 194
+    },
+    {
+        "_id": "6761b71ce5234955da257170",
+        "product_name": "Lengthening Mascara",
+        "brand": "Dior",
+        "price": 31.78,
+        "category": "Lipstick",
+        "rating": 2.3,
+        "reviews": 2552
+    },
+    {
+        "_id": "6761b71ce5234955da2571d4",
+        "product_name": "Gel Eyeliner",
+        "brand": "MAC",
+        "price": 42.49,
+        "category": "Lipstick",
+        "rating": 2.6,
+        "reviews": 640
+    },
+    {
+        "_id": "6761b71ce5234955da25717f",
+        "product_name": "Matte Lipstick",
+        "brand": "MAC",
+        "price": 47.99,
+        "category": "Lipstick",
+        "rating": 2.7,
+        "reviews": 2660
+    },
+    {
+        "_id": "6761b71ce5234955da2571e3",
+        "product_name": "Powder Blush",
+        "brand": "MAC",
+        "price": 96.14,
+        "category": "Lipstick",
+        "rating": 3.0,
+        "reviews": 128
+    },
+    {
+        "_id": "6761b71ce5234955da2571e4",
+        "product_name": "Matte Lipstick",
+        "brand": "Chanel",
+        "price": 116.46,
+        "category": "Lipstick",
+        "rating": 3.0,
+        "reviews": 1872
+    },
+    {
+        "_id": "6761b71ce5234955da2571df",
+        "product_name": "Matte Lipstick",
+        "brand": "Chanel",
+        "price": 92.59,
+        "category": "Lipstick",
+        "rating": 3.0,
+        "reviews": 1581
+    },
+    {
+        "_id": "6761b71ce5234955da25719f",
+        "product_name": "Matte Lipstick",
+        "brand": "MAC",
+        "price": 75.92,
+        "category": "Lipstick",
+        "rating": 3.0,
+        "reviews": 479
+    },
+    {
+        "_id": "6761b71ce5234955da257191",
+        "product_name": "Lengthening Mascara",
+        "brand": "Dior",
+        "price": 60.93,
+        "category": "Lipstick",
+        "rating": 3.3,
+        "reviews": 1443
+    },
+    {
+        "_id": "6761b71ce5234955da25718c",
+        "product_name": "Matte Lipstick",
+        "brand": "Chanel",
+        "price": 71.84,
+        "category": "Lipstick",
+        "rating": 3.3,
+        "reviews": 1173
+    }
+]
