@@ -1,0 +1,56 @@
+[
+  {
+    "column": "Transmission",
+    "memory_bytes": 339005295,
+    "share": 0.1593950599825533,
+    "dtype": "object"
+  },
+  {
+    "column": "Fuel Type",
+    "memory_bytes": 335995084,
+    "share": 0.1579797052079173,
+    "dtype": "object"
+  },
+  {
+    "column": "Brand",
+    "memory_bytes": 330595616,
+    "share": 0.15544095865018615,
+    "dtype": "object"
+  },
+  {
+    "column": "Model",
+    "memory_bytes": 330300561,
+    "share": 0.15530222834090543,
+    "dtype": "object"
+  },
+  {
+    "column": "Condition",
+    "memory_bytes": 325497777,
+    "share": 0.15304403339512074,
+    "dtype": "object"
+  },
+  {
+    "column": "Color",
+    "memory_bytes": 321430678,
+    "share": 0.15113174618715844,
+    "dtype": "object"
+  },
+  {
+    "column": "Year",
+    "memory_bytes": 48000132,
+    "share": 0.022568921583689353,
+    "dtype": "int64"
+  },
+  {
+    "column": "Price",
+    "memory_bytes": 48000132,
+    "share": 0.022568921583689353,
+    "dtype": "int64"
+  },
+  {
+    "column": "Mileage",
+    "memory_bytes": 48000132,
+    "share": 0.022568921583689353,
+    "dtype": "int64"
+  }
+]

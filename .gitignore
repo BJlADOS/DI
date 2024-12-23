@@ -162,7 +162,9 @@ cython_debug/
 .idea/**/shelf
 .idea/misc.xml
 
+#large data files
 dz2/data/
+dz6/**/*.csv
 
 # AWS User-specific
 .idea/**/aws.xml
